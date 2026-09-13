@@ -1,0 +1,27 @@
+{
+  "_comment": "Company board slugs, verified live on 2026-09-13. Add a slug to widen coverage; the scraper skips any slug that 404s and reports it in the run log.",
+
+  "greenhouse": [
+    "databricks", "stripe", "anthropic", "datadog", "mongodb", "cloudflare", "elastic",
+    "toast", "okta", "verkada", "oscar", "brex", "samsara", "gitlab", "scaleai",
+    "coinbase", "affirm", "fivetran", "pinterest", "flexport", "airbnb", "figma",
+    "twilio", "reddit", "klaviyo", "robinhood", "instacart", "asana", "gusto",
+    "justworks", "vercel", "hightouch", "mixpanel", "duolingo", "altruist", "chime",
+    "carta", "postman", "mercury", "sofi", "cribl", "zocdoc", "launchdarkly",
+    "peloton", "discord", "dropbox", "amplitude", "attentive", "komodohealth",
+    "squarespace", "alloy", "betterment", "starburst", "upgrade", "airtable",
+    "modernhealth", "planetscale", "lattice", "circleci", "greenhouse", "netlify"
+  ],
+
+  "lever": [
+    "palantir", "matchgroup", "spotify", "ro", "anchorage", "alloy", "anyscale"
+  ],
+
+  "ashby": [
+    "openai", "crusoe", "elevenlabs", "sierra", "clickhouse", "ramp", "decagon",
+    "vanta", "cognition", "baseten", "suno", "supabase", "writer", "attio", "hex",
+    "gamma", "linear", "workos", "dust", "astronomer", "warp", "mintlify",
+    "airbyte", "resend", "prefect", "motherduck", "browserbase", "neon",
+    "speakeasy", "stytch", "materialize", "knock", "polar", "inngest", "zed", "clerk"
+  ]
+}
