@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-13T19:56:56+00:00",
+ "generated": "2026-09-14T16:45:20+00:00",
  "boards_polled": 104,
  "boards_failed": [],
  "funnel": {
-  "scanned": 12897,
+  "scanned": 12895,
   "role": 147,
-  "us": 107,
+  "us": 106,
   "experience": 50,
-  "kept": 49
+  "kept": 48
  },
  "new_window_days": 3,
- "new_count": 49,
+ "new_count": 48,
  "counts": {
   "entry": 20,
   "internship": 5,
-  "unverified": 24
+  "unverified": 23
  },
  "jobs": [
   {
@@ -35,7 +35,7 @@
    "company": "oscar",
    "title": "Analytics Engineer I",
    "location": "New York, New York, United States",
-   "url": "http://www.hioscar.com/careers/7914958?gh_jid=7914958",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7914958",
    "posted": "2026-07-23",
    "years": 1,
    "tier": "entry",
@@ -47,7 +47,7 @@
    "company": "oscar",
    "title": "Data Scientist I",
    "location": "New York, New York, United States",
-   "url": "http://www.hioscar.com/careers/7592274?gh_jid=7592274",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592274",
    "posted": "2026-02-06",
    "years": 1,
    "tier": "entry",
@@ -59,7 +59,7 @@
    "company": "oscar",
    "title": "Growth Operations Analyst",
    "location": "Tempe, Arizona, United States",
-   "url": "http://www.hioscar.com/careers/8092605?gh_jid=8092605",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8092605",
    "posted": "2026-07-29",
    "years": 1,
    "tier": "entry",
@@ -102,24 +102,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463702002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "New York, New York, United States",
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463696002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -155,19 +155,7 @@
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "New York, New York, United States",
-   "url": "http://www.hioscar.com/careers/7592301?gh_jid=7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "http://www.hioscar.com/careers/7594416?gh_jid=7594416",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -179,7 +167,19 @@
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
-   "url": "http://www.hioscar.com/careers/7594414?gh_jid=7594414",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -553,18 +553,6 @@
    "location": "New York, NY",
    "url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
    "posted": "2026-06-22",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-   "source": "lever",
-   "company": "spotify",
-   "title": "Data Scientist - Music Promotion",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-   "posted": "2026-09-10",
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
