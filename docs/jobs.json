@@ -1,20 +1,22 @@
 {
- "generated": "2026-09-14T16:45:20+00:00",
+ "generated": "2026-09-15T15:26:03+00:00",
  "boards_polled": 104,
- "boards_failed": [],
+ "boards_failed": [
+  "greenhouse:klaviyo URLError"
+ ],
  "funnel": {
-  "scanned": 12895,
-  "role": 147,
-  "us": 106,
-  "experience": 50,
-  "kept": 48
+  "scanned": 12788,
+  "role": 152,
+  "us": 111,
+  "experience": 53,
+  "kept": 51
  },
  "new_window_days": 3,
- "new_count": 48,
+ "new_count": 51,
  "counts": {
   "entry": 20,
-  "internship": 5,
-  "unverified": 23
+  "internship": 6,
+  "unverified": 25
  },
  "jobs": [
   {
@@ -150,12 +152,12 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
+   "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -174,12 +176,12 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594416",
+   "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -306,6 +308,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "gh:figma:6178857004",
+   "source": "greenhouse",
+   "company": "figma",
+   "title": "Data Science Intern (2027)",
+   "location": "San Francisco, CA • New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "posted": "2026-09-14",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-09-15"
+  },
+  {
    "id": "gh:figma:5976930004",
    "source": "greenhouse",
    "company": "figma",
@@ -316,6 +330,18 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
+   "source": "lever",
+   "company": "alloy",
+   "title": "Data Engineer",
+   "location": "Washington, DC",
+   "url": "https://jobs.lever.co/alloy/985c832a-40f7-434d-9a24-d3aec381a48e",
+   "posted": "2026-09-14",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-15"
   },
   {
    "id": "ab:baseten:c2ba6c50-d282-4478-98e9-668f94facde8",
@@ -553,6 +579,18 @@
    "location": "New York, NY",
    "url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
    "posted": "2026-06-22",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "source": "lever",
+   "company": "spotify",
+   "title": "Data Scientist - Music Promotion",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "posted": "2026-09-10",
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
