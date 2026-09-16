@@ -1,13 +1,11 @@
 {
- "generated": "2026-09-15T15:26:03+00:00",
+ "generated": "2026-09-16T15:18:34+00:00",
  "boards_polled": 104,
- "boards_failed": [
-  "greenhouse:klaviyo URLError"
- ],
+ "boards_failed": [],
  "funnel": {
-  "scanned": 12788,
-  "role": 152,
-  "us": 111,
+  "scanned": 12965,
+  "role": 155,
+  "us": 113,
   "experience": 53,
   "kept": 51
  },
@@ -428,18 +426,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "ab:openai:e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Founding Data Scientist, Pricing & Monetization",
-   "location": "San Francisco, New York City",
-   "url": "https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd",
-   "posted": "2026-07-15",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "ab:openai:5bc79fde-2f1d-4bb2-8186-4a700ecff37c",
    "source": "ashby",
    "company": "openai",
@@ -618,6 +604,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:twilio:8178588",
+   "source": "greenhouse",
+   "company": "twilio",
+   "title": "Machine Learning Engineer L2",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8178588",
+   "posted": "2026-09-15",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-16"
   },
   {
    "id": "ab:vanta:0e82974a-0023-49a2-b1ec-a0fa89636dd5",
