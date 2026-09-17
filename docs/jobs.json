@@ -1,20 +1,23 @@
 {
- "generated": "2026-09-16T15:18:34+00:00",
+ "generated": "2026-09-17T15:25:10+00:00",
  "boards_polled": 104,
- "boards_failed": [],
+ "boards_failed": [
+  "greenhouse:postman HTTP 404",
+  "ashby:sierra URLError"
+ ],
  "funnel": {
-  "scanned": 12965,
-  "role": 155,
-  "us": 113,
-  "experience": 53,
-  "kept": 51
+  "scanned": 12716,
+  "role": 159,
+  "us": 114,
+  "experience": 55,
+  "kept": 53
  },
  "new_window_days": 3,
- "new_count": 51,
+ "new_count": 6,
  "counts": {
   "entry": 20,
   "internship": 6,
-  "unverified": 25
+  "unverified": 27
  },
  "jobs": [
   {
@@ -102,16 +105,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463702002",
+   "id": "gh:airbnb:7708224",
    "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-   "posted": "2026-03-14",
+   "company": "airbnb",
+   "title": "Machine Learning Engineer, Relevance and Personalization",
+   "location": "United States",
+   "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
+   "posted": "2026-05-08",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-13"
+   "first_seen": "2026-09-17"
   },
   {
    "id": "gh:brex:8463696002",
@@ -120,6 +123,18 @@
    "title": "Data Analyst II",
    "location": "San Francisco, California, United States",
    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463702002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -162,24 +177,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -193,18 +208,6 @@
    "location": "Palo Alto, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8071670",
    "posted": "2026-07-23",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:pinterest:8162046",
-   "source": "greenhouse",
-   "company": "pinterest",
-   "title": "Machine Learning Engineer II, Responsible AI",
-   "location": "San Francisco, CA, US; Remote, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
-   "posted": "2026-08-27",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -352,6 +355,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:gitlab:8808115002",
+   "source": "greenhouse",
+   "company": "gitlab",
+   "title": "Associate Revenue Operations Analyst, Policy & Rules of Engagement",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808115002",
+   "posted": "2026-09-16",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-17"
   },
   {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
@@ -544,6 +559,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "lv:ro:3910baa9-f961-4380-ad0a-01deec07f7a2",
+   "source": "lever",
+   "company": "ro",
+   "title": "Analytics Engineer, Conversational Analytics",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/ro/3910baa9-f961-4380-ad0a-01deec07f7a2",
+   "posted": "2026-09-16",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-17"
   },
   {
    "id": "gh:robinhood:7960680",
