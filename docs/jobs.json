@@ -1,19 +1,18 @@
 {
- "generated": "2026-09-18T14:45:24+00:00",
+ "generated": "2026-09-19T14:08:04+00:00",
  "boards_polled": 104,
  "boards_failed": [
-  "greenhouse:postman HTTP 404",
-  "ashby:hex HTTP 404"
+  "greenhouse:postman HTTP 404"
  ],
  "funnel": {
-  "scanned": 12936,
+  "scanned": 12953,
   "role": 157,
   "us": 112,
   "experience": 54,
   "kept": 53
  },
  "new_window_days": 3,
- "new_count": 6,
+ "new_count": 5,
  "counts": {
   "entry": 20,
   "internship": 6,
@@ -117,18 +116,6 @@
    "first_seen": "2026-09-17"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463702002",
    "source": "greenhouse",
    "company": "brex",
@@ -141,13 +128,13 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "ab:crusoe:b5dc0c85-b7dc-46c3-a23a-a54ba6a979d5",
-   "source": "ashby",
-   "company": "crusoe",
-   "title": "Strategic Sourcing Data Analyst",
-   "location": "Denver, CO - US",
-   "url": "https://jobs.ashbyhq.com/crusoe/b5dc0c85-b7dc-46c3-a23a-a54ba6a979d5",
-   "posted": "2026-08-18",
+   "id": "gh:brex:8463696002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -160,18 +147,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -195,6 +170,18 @@
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -247,6 +234,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:pinterest:8213988",
+   "source": "greenhouse",
+   "company": "pinterest",
+   "title": "Software Engineer II, Data Analytics & Engineering",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+   "posted": "2026-09-18",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-19"
   },
   {
    "id": "gh:toast:7984730",
