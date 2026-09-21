@@ -1,18 +1,18 @@
 {
- "generated": "2026-09-20T14:27:16+00:00",
+ "generated": "2026-09-21T16:45:18+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404"
  ],
  "funnel": {
-  "scanned": 12958,
-  "role": 157,
-  "us": 112,
+  "scanned": 12919,
+  "role": 155,
+  "us": 111,
   "experience": 54,
   "kept": 53
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 1,
  "counts": {
   "entry": 20,
   "internship": 6,
