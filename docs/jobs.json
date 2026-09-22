@@ -1,22 +1,22 @@
 {
- "generated": "2026-09-21T16:45:18+00:00",
+ "generated": "2026-09-22T15:22:38+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404"
  ],
  "funnel": {
-  "scanned": 12919,
-  "role": 155,
-  "us": 111,
-  "experience": 54,
-  "kept": 53
+  "scanned": 12884,
+  "role": 158,
+  "us": 114,
+  "experience": 55,
+  "kept": 54
  },
  "new_window_days": 3,
- "new_count": 1,
+ "new_count": 5,
  "counts": {
-  "entry": 20,
-  "internship": 6,
-  "unverified": 27
+  "entry": 21,
+  "internship": 7,
+  "unverified": 26
  },
  "jobs": [
   {
@@ -30,6 +30,18 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Remote, Georgia, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
   },
   {
    "id": "gh:oscar:7914958",
@@ -104,16 +116,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:airbnb:7708224",
+   "id": "gh:brex:8463696002",
    "source": "greenhouse",
-   "company": "airbnb",
-   "title": "Machine Learning Engineer, Relevance and Personalization",
-   "location": "United States",
-   "url": "https://careers.airbnb.com/positions/7708224?gh_jid=7708224",
-   "posted": "2026-05-08",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-17"
+   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:brex:8463702002",
@@ -128,16 +140,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463696002",
+   "id": "gh:datadog:8202086",
    "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
+   "company": "datadog",
+   "title": "Legal Operations Analyst",
+   "location": "New York, New York, USA",
+   "url": "https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086",
+   "posted": "2026-09-21",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-13"
+   "first_seen": "2026-09-22"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -164,24 +176,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -332,6 +344,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "gh:figma:6200626004",
+   "source": "greenhouse",
+   "company": "figma",
+   "title": "PhD Intern, Data Science (2027)",
+   "location": "San Francisco, CA • New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6200626004?gh_jid=6200626004",
+   "posted": "2026-09-21",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-09-22"
+  },
+  {
    "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
    "source": "lever",
    "company": "alloy",
@@ -375,18 +399,6 @@
    "location": "New York, New York, Los Angeles, California",
    "url": "https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
    "posted": "2026-09-10",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "ab:openai:44abed05-4b45-4aa0-bee6-45d113bbef66",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Data Engineer, Monetization Data Platform",
-   "location": "Mountain View, San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66",
-   "posted": "2026-08-20",
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
@@ -474,6 +486,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "ab:openai:80f9f564-d789-47bc-91c3-3babf5a1a33d",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Machine Learning Engineer, Monetization AI/ML",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/80f9f564-d789-47bc-91c3-3babf5a1a33d",
+   "posted": "2026-09-21",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-22"
   },
   {
    "id": "ab:openai:1b268692-70d8-46c2-a347-2f7705b5c174",
@@ -630,18 +654,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:twilio:8178588",
-   "source": "greenhouse",
-   "company": "twilio",
-   "title": "Machine Learning Engineer L2",
-   "location": "Remote - US",
-   "url": "https://job-boards.greenhouse.io/twilio/jobs/8178588",
-   "posted": "2026-09-15",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-16"
   },
   {
    "id": "ab:vanta:0e82974a-0023-49a2-b1ec-a0fa89636dd5",
