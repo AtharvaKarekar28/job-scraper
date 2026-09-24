@@ -1,21 +1,21 @@
 {
- "generated": "2026-09-23T15:16:10+00:00",
+ "generated": "2026-09-24T15:41:09+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404"
  ],
  "funnel": {
   "scanned": 12915,
-  "role": 163,
-  "us": 117,
-  "experience": 56,
-  "kept": 55
+  "role": 161,
+  "us": 115,
+  "experience": 57,
+  "kept": 56
  },
  "new_window_days": 3,
- "new_count": 6,
+ "new_count": 7,
  "counts": {
   "entry": 23,
-  "internship": 7,
+  "internship": 8,
   "unverified": 25
  },
  "jobs": [
@@ -30,18 +30,6 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:fivetran:8001609003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Remote, Georgia, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
   },
   {
    "id": "gh:oscar:7914958",
@@ -116,24 +104,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463702002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "New York, New York, United States",
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463696002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -164,6 +152,18 @@
    "first_seen": "2026-09-23"
   },
   {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Remote, Georgia, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
+  },
+  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -171,6 +171,18 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -194,18 +206,6 @@
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -342,6 +342,18 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:figma:6178851004",
+   "source": "greenhouse",
+   "company": "figma",
+   "title": "Data Engineer Intern (2027)",
+   "location": "San Francisco, CA • New York, NY",
+   "url": "https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004",
+   "posted": "2026-09-23",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-09-24"
   },
   {
    "id": "gh:figma:6178857004",
