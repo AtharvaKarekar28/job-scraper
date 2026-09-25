@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-24T15:41:09+00:00",
+ "generated": "2026-09-25T15:42:55+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404"
  ],
  "funnel": {
-  "scanned": 12915,
-  "role": 161,
-  "us": 115,
-  "experience": 57,
-  "kept": 56
+  "scanned": 12930,
+  "role": 162,
+  "us": 114,
+  "experience": 58,
+  "kept": 57
  },
  "new_window_days": 3,
- "new_count": 7,
+ "new_count": 8,
  "counts": {
-  "entry": 23,
+  "entry": 24,
   "internship": 8,
   "unverified": 25
  },
@@ -140,6 +140,18 @@
    "first_seen": "2026-09-22"
   },
   {
+   "id": "gh:discord:8840756002",
+   "source": "greenhouse",
+   "company": "discord",
+   "title": "Data Scientist - Client Platform",
+   "location": "San Francisco Bay Area",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8840756002",
+   "posted": "2026-09-24",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-25"
+  },
+  {
    "id": "gh:dropbox:8211529",
    "source": "greenhouse",
    "company": "dropbox",
@@ -176,12 +188,12 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594416",
+   "id": "gh:oscar:7594414",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -200,12 +212,12 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594414",
+   "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -219,6 +231,18 @@
    "location": "Palo Alto, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8071670",
    "posted": "2026-07-23",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:pinterest:8162046",
+   "source": "greenhouse",
+   "company": "pinterest",
+   "title": "Machine Learning Engineer II, Responsible AI",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
+   "posted": "2026-08-27",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -270,18 +294,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-19"
-  },
-  {
-   "id": "gh:sofi:8002649003",
-   "source": "greenhouse",
-   "company": "sofi",
-   "title": "Marketing Data Scientist",
-   "location": "United States",
-   "url": "https://sofi.com/careers/job/8002649003?gh_jid=8002649003",
-   "posted": "2026-09-22",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-23"
   },
   {
    "id": "gh:toast:7984730",
@@ -416,18 +428,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:gitlab:8808115002",
-   "source": "greenhouse",
-   "company": "gitlab",
-   "title": "Associate Revenue Operations Analyst, Policy & Rules of Engagement",
-   "location": "Remote, United States",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8808115002",
-   "posted": "2026-09-16",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-17"
-  },
-  {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
    "source": "lever",
    "company": "matchgroup",
@@ -498,6 +498,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "ab:openai:9d4d2727-27f3-4a63-857c-a96466130645",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Machine Learning Engineer, Core Experimentation",
+   "location": "Seattle",
+   "url": "https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645",
+   "posted": "2026-09-24",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-25"
   },
   {
    "id": "ab:openai:4a13c764-18c3-4076-ac87-29e05491be07",
