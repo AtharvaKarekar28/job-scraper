@@ -1,20 +1,20 @@
 {
- "generated": "2026-09-25T15:42:55+00:00",
+ "generated": "2026-09-26T14:51:20+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404"
  ],
  "funnel": {
-  "scanned": 12930,
-  "role": 162,
-  "us": 114,
-  "experience": 58,
-  "kept": 57
+  "scanned": 12938,
+  "role": 163,
+  "us": 117,
+  "experience": 60,
+  "kept": 59
  },
  "new_window_days": 3,
- "new_count": 8,
+ "new_count": 6,
  "counts": {
-  "entry": 24,
+  "entry": 26,
   "internship": 8,
   "unverified": 25
  },
@@ -152,28 +152,52 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh:dropbox:8211529",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
-   "company": "dropbox",
-   "title": "Data Engineer",
-   "location": "Remote - US: Select locations",
-   "url": "https://jobs.dropbox.com/listing/8211529?gh_jid=8211529",
-   "posted": "2026-09-22",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-23"
+   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8001609003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Remote, Georgia, United States, AMER",
+   "location": "Denver, Colorado, United States, AMER",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
    "posted": "2026-09-21",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-22"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -200,24 +224,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
