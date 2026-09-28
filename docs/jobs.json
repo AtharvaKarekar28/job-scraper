@@ -1,22 +1,22 @@
 {
- "generated": "2026-09-27T15:29:46+00:00",
+ "generated": "2026-09-28T18:23:04+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404"
  ],
  "funnel": {
-  "scanned": 12935,
-  "role": 163,
-  "us": 117,
-  "experience": 60,
-  "kept": 59
+  "scanned": 12882,
+  "role": 158,
+  "us": 113,
+  "experience": 57,
+  "kept": 56
  },
  "new_window_days": 3,
- "new_count": 6,
+ "new_count": 5,
  "counts": {
-  "entry": 26,
+  "entry": 25,
   "internship": 8,
-  "unverified": 25
+  "unverified": 23
  },
  "jobs": [
   {
@@ -152,12 +152,24 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh:fivetran:8005785003",
+   "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -176,24 +188,12 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -224,18 +224,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
@@ -248,13 +236,13 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:pinterest:8071670",
+   "id": "gh:oscar:7594416",
    "source": "greenhouse",
-   "company": "pinterest",
-   "title": "Data Scientist II, ML Infrastructure",
-   "location": "Palo Alto, CA, US; Remote, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8071670",
-   "posted": "2026-07-23",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -534,30 +522,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-25"
-  },
-  {
-   "id": "ab:openai:4a13c764-18c3-4076-ac87-29e05491be07",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Machine Learning Engineer, Distributed Data Systems - Robotics",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/4a13c764-18c3-4076-ac87-29e05491be07",
-   "posted": "2026-02-06",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "ab:openai:ecf1abec-898c-4acb-a984-42858836a1ff",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Machine Learning Engineer, Integrity",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/ecf1abec-898c-4acb-a984-42858836a1ff",
-   "posted": "2026-03-17",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "ab:openai:80f9f564-d789-47bc-91c3-3babf5a1a33d",
