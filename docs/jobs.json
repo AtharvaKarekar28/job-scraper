@@ -1,22 +1,23 @@
 {
- "generated": "2026-09-28T18:23:04+00:00",
+ "generated": "2026-09-29T16:45:27+00:00",
  "boards_polled": 104,
  "boards_failed": [
-  "greenhouse:postman HTTP 404"
+  "greenhouse:postman HTTP 404",
+  "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12882,
-  "role": 158,
+  "scanned": 12796,
+  "role": 160,
   "us": 113,
   "experience": 57,
   "kept": 56
  },
  "new_window_days": 3,
- "new_count": 5,
+ "new_count": 4,
  "counts": {
-  "entry": 25,
+  "entry": 26,
   "internship": 8,
-  "unverified": 23
+  "unverified": 22
  },
  "jobs": [
   {
@@ -152,24 +153,12 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh:fivetran:8005784003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -188,16 +177,40 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005785003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:gusto:8224747",
+   "source": "greenhouse",
+   "company": "gusto",
+   "title": "APEX Risk Operations Analyst",
+   "location": "Denver, CO - Hybrid",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8224747",
+   "posted": "2026-09-28",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-29"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -207,18 +220,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -242,6 +243,18 @@
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -675,18 +688,6 @@
    "location": "New York, NY",
    "url": "https://stripe.com/jobs/search?gh_jid=8145119",
    "posted": "2026-08-20",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "ab:vanta:0e82974a-0023-49a2-b1ec-a0fa89636dd5",
-   "source": "ashby",
-   "company": "vanta",
-   "title": "GTM Strategy & Operations Analyst, Account Management",
-   "location": "Remote U.S.",
-   "url": "https://jobs.ashbyhq.com/vanta/0e82974a-0023-49a2-b1ec-a0fa89636dd5",
-   "posted": "2026-08-28",
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
