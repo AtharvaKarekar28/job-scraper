@@ -1,23 +1,24 @@
 {
- "generated": "2026-09-29T16:45:27+00:00",
+ "generated": "2026-09-30T16:38:32+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404",
-  "greenhouse:amplitude HTTP 404"
+  "greenhouse:amplitude HTTP 404",
+  "greenhouse:attentive TimeoutError"
  ],
  "funnel": {
-  "scanned": 12796,
-  "role": 160,
-  "us": 113,
-  "experience": 57,
-  "kept": 56
+  "scanned": 12812,
+  "role": 163,
+  "us": 116,
+  "experience": 59,
+  "kept": 58
  },
  "new_window_days": 3,
  "new_count": 4,
  "counts": {
   "entry": 26,
-  "internship": 8,
-  "unverified": 22
+  "internship": 9,
+  "unverified": 23
  },
  "jobs": [
   {
@@ -105,24 +106,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463702002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463696002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "San Francisco, California, United States",
    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463702002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -151,6 +152,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8005785003",
@@ -189,30 +202,6 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:gusto:8224747",
-   "source": "greenhouse",
-   "company": "gusto",
-   "title": "APEX Risk Operations Analyst",
-   "location": "Denver, CO - Hybrid",
-   "url": "https://job-boards.greenhouse.io/gusto/jobs/8224747",
-   "posted": "2026-09-28",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-29"
-  },
-  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -220,18 +209,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -255,6 +232,18 @@
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -331,6 +320,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:upgrade:4739106005",
+   "source": "greenhouse",
+   "company": "upgrade",
+   "title": "Data Scientist - Flex Pay",
+   "location": "San Francisco",
+   "url": "https://job-boards.greenhouse.io/upgrade/jobs/4739106005",
+   "posted": "2026-09-29",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-30"
   },
   {
    "id": "gh:coinbase:8175471",
@@ -429,6 +430,18 @@
    "first_seen": "2026-09-22"
   },
   {
+   "id": "gh:robinhood:8241738",
+   "source": "greenhouse",
+   "company": "robinhood",
+   "title": "Data Science Intern (Summer 2027)",
+   "location": "Menlo Park, CA",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
+   "posted": "2026-09-29",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-09-30"
+  },
+  {
    "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
    "source": "lever",
    "company": "alloy",
@@ -439,6 +452,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-15"
+  },
+  {
+   "id": "gh:anthropic:5184585008",
+   "source": "greenhouse",
+   "company": "anthropic",
+   "title": "Data Science, Finance & Strategy",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184585008",
+   "posted": "2026-04-10",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-30"
   },
   {
    "id": "ab:baseten:c2ba6c50-d282-4478-98e9-668f94facde8",
@@ -463,6 +488,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "ab:openai:756d8c20-649a-47f2-8012-553b5f6cb0c5",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Data Scientist, B2B Generalist",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5",
+   "posted": "2026-09-30",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-30"
   },
   {
    "id": "ab:openai:e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92",
@@ -643,18 +680,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-17"
-  },
-  {
-   "id": "gh:robinhood:7960680",
-   "source": "greenhouse",
-   "company": "robinhood",
-   "title": "Machine Learning Engineer",
-   "location": "Bellevue, WA",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/7960680?t=gh_src=&gh_jid=7960680",
-   "posted": "2026-06-01",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "lv:spotify:1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
