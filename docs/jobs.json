@@ -1,23 +1,23 @@
 {
- "generated": "2026-10-01T17:14:22+00:00",
+ "generated": "2026-10-02T16:27:54+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:postman HTTP 404",
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12859,
+  "scanned": 12881,
   "role": 173,
-  "us": 124,
-  "experience": 66,
-  "kept": 65
+  "us": 125,
+  "experience": 69,
+  "kept": 68
  },
  "new_window_days": 3,
- "new_count": 14,
+ "new_count": 17,
  "counts": {
   "entry": 24,
   "internship": 17,
-  "unverified": 24
+  "unverified": 27
  },
  "jobs": [
   {
@@ -93,6 +93,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "gh:brex:8463702002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
    "id": "gh:brex:8463696002",
    "source": "greenhouse",
    "company": "brex",
@@ -105,16 +117,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463702002",
+   "id": "gh:brex:8783482002",
    "source": "greenhouse",
    "company": "brex",
-   "title": "Data Analyst II",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-   "posted": "2026-03-14",
+   "title": "Data Scientist II, Applied ML",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8783482002?gh_jid=8783482002",
+   "posted": "2026-10-01",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-13"
+   "first_seen": "2026-10-02"
   },
   {
    "id": "gh:datadog:8202086",
@@ -153,12 +165,12 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005784003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -177,12 +189,12 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -196,18 +208,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -231,6 +231,18 @@
    "title": "Data Scientist II",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -295,18 +307,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-19"
-  },
-  {
-   "id": "gh:upgrade:4739106005",
-   "source": "greenhouse",
-   "company": "upgrade",
-   "title": "Data Scientist - Flex Pay",
-   "location": "San Francisco",
-   "url": "https://job-boards.greenhouse.io/upgrade/jobs/4739106005",
-   "posted": "2026-09-29",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-30"
   },
   {
    "id": "gh:coinbase:8175471",
@@ -693,6 +693,30 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "lv:palantir:26032bad-d713-429d-8b04-2de7db93b5c3",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Procurement Operations Analyst",
+   "location": "Washington, D.C.",
+   "url": "https://jobs.lever.co/palantir/26032bad-d713-429d-8b04-2de7db93b5c3",
+   "posted": "2021-08-11",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-02"
+  },
+  {
+   "id": "lv:palantir:66955c3b-c530-4c4a-9d48-63b4aad61b9c",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Procurement Operations Analyst",
+   "location": "Denver, CO",
+   "url": "https://jobs.lever.co/palantir/66955c3b-c530-4c4a-9d48-63b4aad61b9c",
+   "posted": "2021-12-03",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-02"
+  },
+  {
    "id": "lv:palantir:5174e95b-2e0a-46f8-8db7-e2c837a0ac94",
    "source": "lever",
    "company": "palantir",
@@ -739,6 +763,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:reddit:8244082",
+   "source": "greenhouse",
+   "company": "reddit",
+   "title": "Machine Learning Engineer",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8244082",
+   "posted": "2026-10-01",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-02"
   },
   {
    "id": "lv:ro:3910baa9-f961-4380-ad0a-01deec07f7a2",
