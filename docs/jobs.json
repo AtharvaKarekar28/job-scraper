@@ -1,23 +1,24 @@
 {
- "generated": "2026-10-02T16:27:54+00:00",
+ "generated": "2026-10-03T15:02:01+00:00",
  "boards_polled": 104,
  "boards_failed": [
+  "greenhouse:hightouch HTTP 404",
   "greenhouse:postman HTTP 404",
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12881,
-  "role": 173,
-  "us": 125,
-  "experience": 69,
-  "kept": 68
+  "scanned": 12825,
+  "role": 177,
+  "us": 129,
+  "experience": 75,
+  "kept": 74
  },
  "new_window_days": 3,
- "new_count": 17,
+ "new_count": 23,
  "counts": {
-  "entry": 24,
-  "internship": 17,
-  "unverified": 27
+  "entry": 30,
+  "internship": 16,
+  "unverified": 28
  },
  "jobs": [
   {
@@ -31,6 +32,18 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:instacart:8249894",
+   "source": "greenhouse",
+   "company": "instacart",
+   "title": "Data Analyst, Platform Excellence Ops Analytics",
+   "location": "United States - Remote",
+   "url": "https://instacart.careers/job/?gh_jid=8249894",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
   },
   {
    "id": "gh:oscar:7914958",
@@ -55,6 +68,54 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:8250129",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250129",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "id": "gh:oscar:8250195",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "id": "gh:oscar:8250197",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Dallas, Texas, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "id": "gh:oscar:8249773",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8249773",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
   },
   {
    "id": "gh:affirm:7822387003",
@@ -93,16 +154,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463702002",
+   "id": "gh:airbnb:8031901",
    "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-   "posted": "2026-03-14",
+   "company": "airbnb",
+   "title": "Data Scientist - Algorithms, Community Support",
+   "location": "Remote - USA",
+   "url": "https://careers.airbnb.com/positions/8031901?gh_jid=8031901",
+   "posted": "2026-06-28",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-13"
+   "first_seen": "2026-10-03"
   },
   {
    "id": "gh:brex:8463696002",
@@ -111,6 +172,18 @@
    "title": "Data Analyst II",
    "location": "San Francisco, California, United States",
    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463702002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -225,24 +298,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -453,18 +526,6 @@
    "first_seen": "2026-10-01"
   },
   {
-   "id": "gh:pinterest:8157351",
-   "source": "greenhouse",
-   "company": "pinterest",
-   "title": "PhD University Grad Data Scientist 2027 (USA)",
-   "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157351",
-   "posted": "2026-10-01",
-   "years": null,
-   "tier": "internship",
-   "first_seen": "2026-10-01"
-  },
-  {
    "id": "gh:pinterest:8140363",
    "source": "greenhouse",
    "company": "pinterest",
@@ -547,6 +608,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:chime:8569366002",
+   "source": "greenhouse",
+   "company": "chime",
+   "title": "AI/ML Engineer",
+   "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+   "url": "https://boards.greenhouse.io/chime/jobs/8569366002?gh_jid=8569366002",
+   "posted": "2026-06-08",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-03"
   },
   {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
@@ -831,7 +904,7 @@
    "title": "Machine Learning Engineer - Content Discovery",
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/suno/e94b6a03-6315-45c2-a439-51630af15f05",
-   "posted": "2026-10-01",
+   "posted": "2026-10-02",
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-01"
