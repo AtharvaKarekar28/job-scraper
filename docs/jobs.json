@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-05T19:39:33+00:00",
+ "generated": "2026-10-06T17:02:09+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,16 +7,16 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12812,
+  "scanned": 12811,
   "role": 183,
-  "us": 134,
-  "experience": 78,
-  "kept": 76
+  "us": 133,
+  "experience": 77,
+  "kept": 75
  },
  "new_window_days": 3,
- "new_count": 13,
+ "new_count": 10,
  "counts": {
-  "entry": 31,
+  "entry": 30,
   "internship": 16,
   "unverified": 29
  },
@@ -70,18 +70,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:8250195",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
    "id": "gh:oscar:8250197",
    "source": "greenhouse",
    "company": "oscar",
@@ -100,6 +88,18 @@
    "title": "Strategic Insights Associate, Data Analytics",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/8249773",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "id": "gh:oscar:8250195",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Atlanta, Georgia, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
    "posted": "2026-10-02",
    "years": 1,
    "tier": "entry",
@@ -137,18 +137,6 @@
    "location": "Remote US",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
    "posted": "2026-08-28",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:affirm:7871460003",
-   "source": "greenhouse",
-   "company": "affirm",
-   "title": "Revenue Operations Analyst II",
-   "location": "Remote US",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7871460003",
-   "posted": "2026-08-18",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -250,24 +238,24 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "Oakland, California, United States, AMER",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -646,6 +634,18 @@
    "first_seen": "2026-10-05"
   },
   {
+   "id": "ab:elevenlabs:69694001-b760-4939-9a02-e75c046b89d3",
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Marketing Data Scientist",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/69694001-b760-4939-9a02-e75c046b89d3",
+   "posted": "2026-10-05",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-06"
+  },
+  {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
    "source": "lever",
    "company": "matchgroup",
@@ -920,18 +920,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "ab:suno:e94b6a03-6315-45c2-a439-51630af15f05",
-   "source": "ashby",
-   "company": "suno",
-   "title": "Machine Learning Engineer - Content Discovery",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/suno/e94b6a03-6315-45c2-a439-51630af15f05",
-   "posted": "2026-10-02",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-01"
   }
  ]
 }
