@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-07T17:39:04+00:00",
+ "generated": "2026-10-08T17:41:32+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12863,
-  "role": 181,
-  "us": 128,
-  "experience": 71,
-  "kept": 70
+  "scanned": 12843,
+  "role": 178,
+  "us": 125,
+  "experience": 70,
+  "kept": 69
  },
  "new_window_days": 3,
- "new_count": 2,
+ "new_count": 3,
  "counts": {
-  "entry": 25,
-  "internship": 16,
-  "unverified": 29
+  "entry": 26,
+  "internship": 15,
+  "unverified": 28
  },
  "jobs": [
   {
@@ -106,24 +106,24 @@
    "first_seen": "2026-10-03"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463702002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "New York, New York, United States",
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463696002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -166,24 +166,24 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "USA - New York",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -202,12 +202,12 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005784003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -301,7 +301,7 @@
    "id": "gh:pinterest:6121543",
    "source": "greenhouse",
    "company": "pinterest",
-   "title": "Machine Learning Engineer, Monetization Engineering",
+   "title": "Machine Learning Engineer, EPD Ads",
    "location": "San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=6121543",
    "posted": "2024-07-23",
@@ -320,6 +320,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-19"
+  },
+  {
+   "id": "gh:stripe:8243617",
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Machine Learning Engineer, Radar",
+   "location": "Seattle",
+   "url": "https://stripe.com/jobs/search?gh_jid=8243617",
+   "posted": "2026-10-07",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-10-08"
   },
   {
    "id": "gh:coinbase:8175471",
@@ -392,18 +404,6 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-09-15"
-  },
-  {
-   "id": "gh:figma:5976930004",
-   "source": "greenhouse",
-   "company": "figma",
-   "title": "Data Scientist, Core Data -  PhD (2026)",
-   "location": "San Francisco, CA • New York, NY",
-   "url": "https://boards.greenhouse.io/figma/jobs/5976930004?gh_jid=5976930004",
-   "posted": "2026-04-22",
-   "years": null,
-   "tier": "internship",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:figma:6200626004",
@@ -574,18 +574,6 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "ab:elevenlabs:69694001-b760-4939-9a02-e75c046b89d3",
-   "source": "ashby",
-   "company": "elevenlabs",
-   "title": "Marketing Data Scientist",
-   "location": "Remote",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/69694001-b760-4939-9a02-e75c046b89d3",
-   "posted": "2026-10-05",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-06"
-  },
-  {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
    "source": "lever",
    "company": "matchgroup",
@@ -718,6 +706,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "lv:palantir:1b690123-1766-4e75-a0ef-0f58afa864b4",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Data Engineer - Talent Acquisition Operations",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/1b690123-1766-4e75-a0ef-0f58afa864b4",
+   "posted": "2026-10-07",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-08"
+  },
+  {
    "id": "lv:palantir:46530906-4822-4cce-ab86-ef7014d8547f",
    "source": "lever",
    "company": "palantir",
@@ -800,18 +800,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:reddit:8244082",
-   "source": "greenhouse",
-   "company": "reddit",
-   "title": "Machine Learning Engineer",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/reddit/jobs/8244082",
-   "posted": "2026-10-01",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-02"
   },
   {
    "id": "lv:ro:3910baa9-f961-4380-ad0a-01deec07f7a2",
