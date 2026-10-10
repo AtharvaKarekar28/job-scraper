@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-09T17:16:47+00:00",
+ "generated": "2026-10-10T16:05:30+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,9 +7,9 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12866,
+  "scanned": 12868,
   "role": 182,
-  "us": 129,
+  "us": 127,
   "experience": 72,
   "kept": 70
  },
@@ -166,16 +166,16 @@
    "first_seen": "2026-09-25"
   },
   {
-   "id": "gh:fivetran:8001609003",
+   "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-22"
+   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8005548003",
@@ -202,16 +202,16 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005784003",
+   "id": "gh:fivetran:8001609003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-26"
+   "first_seen": "2026-09-22"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -226,12 +226,12 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594414",
+   "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -250,12 +250,12 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
+   "id": "gh:oscar:7594414",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
