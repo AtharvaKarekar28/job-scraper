@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T16:29:40+00:00",
+ "generated": "2026-10-12T20:05:21+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12868,
-  "role": 182,
-  "us": 127,
+  "scanned": 12850,
+  "role": 180,
+  "us": 128,
   "experience": 72,
   "kept": 70
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 3,
  "counts": {
   "entry": 27,
-  "internship": 15,
-  "unverified": 28
+  "internship": 14,
+  "unverified": 29
  },
  "jobs": [
   {
@@ -44,18 +44,6 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:7914958",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Analytics Engineer I",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7914958",
-   "posted": "2026-07-23",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:oscar:7592274",
@@ -166,24 +154,36 @@
    "first_seen": "2026-09-25"
   },
   {
+   "id": "gh:elastic:8244449",
+   "source": "greenhouse",
+   "company": "elastic",
+   "title": "Analytics Engineer, HR Analytics",
+   "location": "United States",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8244449&gh_jid=8244449",
+   "posted": "2026-10-05",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-10-05"
+  },
+  {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
+  },
+  {
    "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "USA - Austin (dbt)",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -202,16 +202,16 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8001609003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-22"
+   "first_seen": "2026-09-26"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -238,24 +238,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594414",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -488,18 +488,6 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-10-01"
-  },
-  {
-   "id": "gh:robinhood:8241738",
-   "source": "greenhouse",
-   "company": "robinhood",
-   "title": "Data Science Intern (Summer 2027)",
-   "location": "Menlo Park, CA",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8241738?t=gh_src=&gh_jid=8241738",
-   "posted": "2026-09-29",
-   "years": null,
-   "tier": "internship",
-   "first_seen": "2026-09-30"
   },
   {
    "id": "gh:stripe:8194291",
@@ -740,6 +728,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "lv:palantir:5f3f9547-2aea-4ac2-995d-e8fa53b16e39",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Operations Analyst - US Government Security",
+   "location": "Palo Alto, CA",
+   "url": "https://jobs.lever.co/palantir/5f3f9547-2aea-4ac2-995d-e8fa53b16e39",
+   "posted": "2026-10-09",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-12"
   },
   {
    "id": "lv:palantir:26032bad-d713-429d-8b04-2de7db93b5c3",
