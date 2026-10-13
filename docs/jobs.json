@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-12T20:05:21+00:00",
+ "generated": "2026-10-13T17:54:55+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12850,
-  "role": 180,
-  "us": 128,
+  "scanned": 12822,
+  "role": 181,
+  "us": 129,
   "experience": 72,
   "kept": 70
  },
  "new_window_days": 3,
- "new_count": 3,
+ "new_count": 2,
  "counts": {
-  "entry": 27,
+  "entry": 26,
   "internship": 14,
-  "unverified": 29
+  "unverified": 30
  },
  "jobs": [
   {
@@ -32,18 +32,6 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:instacart:8249894",
-   "source": "greenhouse",
-   "company": "instacart",
-   "title": "Data Analyst, Platform Excellence Ops Analytics",
-   "location": "United States - Remote",
-   "url": "https://instacart.careers/job/?gh_jid=8249894",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
   },
   {
    "id": "gh:oscar:7592274",
@@ -178,24 +166,24 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "Oakland, California, United States, AMER",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -226,6 +214,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
@@ -244,18 +244,6 @@
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -668,6 +656,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-25"
+  },
+  {
+   "id": "ab:openai:a01fc9ed-de08-4326-9206-4ee3f08000dc",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Machine Learning Engineer, Implicit Signals",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/a01fc9ed-de08-4326-9206-4ee3f08000dc",
+   "posted": "2026-10-13",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-13"
   },
   {
    "id": "ab:openai:80f9f564-d789-47bc-91c3-3babf5a1a33d",
