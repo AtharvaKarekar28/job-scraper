@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-15T15:28:24+00:00",
+ "generated": "2026-10-16T15:07:58+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,17 +7,17 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12803,
-  "role": 181,
-  "us": 128,
-  "experience": 71,
-  "kept": 69
+  "scanned": 12849,
+  "role": 186,
+  "us": 131,
+  "experience": 74,
+  "kept": 71
  },
  "new_window_days": 3,
- "new_count": 3,
+ "new_count": 5,
  "counts": {
   "entry": 25,
-  "internship": 14,
+  "internship": 16,
   "unverified": 30
  },
  "jobs": [
@@ -142,30 +142,6 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8001609003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -190,6 +166,30 @@
    "first_seen": "2026-09-26"
   },
   {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -197,18 +197,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -232,6 +220,18 @@
    "title": "Data Scientist II",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -368,6 +368,30 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:duolingo:8888721002",
+   "source": "greenhouse",
+   "company": "duolingo",
+   "title": "Data Scientist, Intern",
+   "location": "New York, NY; Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
+   "posted": "2026-10-15",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "gh:duolingo:8888848002",
+   "source": "greenhouse",
+   "company": "duolingo",
+   "title": "Data Scientist, Intern (PhD)",
+   "location": "New York, NY; Pittsburgh, PA",
+   "url": "https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002",
+   "posted": "2026-10-15",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "gh:figma:6178851004",
@@ -626,7 +650,7 @@
    "source": "ashby",
    "company": "openai",
    "title": "Data Scientist, Safety",
-   "location": "San Francisco, New York City",
+   "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/90c711dc-5f50-46e3-a5ab-82359a56d683",
    "posted": "2026-05-15",
    "years": null,
@@ -706,18 +730,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "lv:palantir:46530906-4822-4cce-ab86-ef7014d8547f",
-   "source": "lever",
-   "company": "palantir",
-   "title": "Operations Analyst - US Government",
-   "location": "Honolulu, HI",
-   "url": "https://jobs.lever.co/palantir/46530906-4822-4cce-ab86-ef7014d8547f",
-   "posted": "2025-08-20",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "lv:palantir:5f3f9547-2aea-4ac2-995d-e8fa53b16e39",
    "source": "lever",
    "company": "palantir",
@@ -728,6 +740,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-12"
+  },
+  {
+   "id": "lv:palantir:a468565d-8502-4baf-8788-b7ffe233b725",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Operations Analyst - US Government Security",
+   "location": "Washington, D.C.",
+   "url": "https://jobs.lever.co/palantir/a468565d-8502-4baf-8788-b7ffe233b725",
+   "posted": "2026-10-16",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-16"
   },
   {
    "id": "lv:palantir:26032bad-d713-429d-8b04-2de7db93b5c3",
