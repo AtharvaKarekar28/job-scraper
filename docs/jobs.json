@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T15:07:58+00:00",
+ "generated": "2026-10-17T14:01:25+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,14 +7,14 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12849,
-  "role": 186,
-  "us": 131,
+  "scanned": 12892,
+  "role": 184,
+  "us": 129,
   "experience": 74,
   "kept": 71
  },
  "new_window_days": 3,
- "new_count": 5,
+ "new_count": 4,
  "counts": {
   "entry": 25,
   "internship": 16,
@@ -142,30 +142,6 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8001609003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -184,6 +160,30 @@
    "title": "Pricing & Order Operations Analyst",
    "location": "USA - Austin (dbt)",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
