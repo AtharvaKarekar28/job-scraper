@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T14:14:54+00:00",
+ "generated": "2026-10-19T17:18:23+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12892,
-  "role": 184,
-  "us": 129,
-  "experience": 74,
-  "kept": 71
+  "scanned": 12876,
+  "role": 180,
+  "us": 127,
+  "experience": 70,
+  "kept": 67
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 3,
  "counts": {
-  "entry": 25,
+  "entry": 24,
   "internship": 16,
-  "unverified": 30
+  "unverified": 27
  },
  "jobs": [
   {
@@ -106,18 +106,6 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "gh:datadog:8202086",
-   "source": "greenhouse",
-   "company": "datadog",
-   "title": "Legal Operations Analyst",
-   "location": "New York, New York, USA",
-   "url": "https://careers.datadoghq.com/detail/8202086/?gh_jid=8202086",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
    "id": "gh:discord:8840756002",
    "source": "greenhouse",
    "company": "discord",
@@ -142,12 +130,12 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -166,12 +154,12 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005785003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -202,24 +190,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -526,18 +514,6 @@
    "first_seen": "2026-09-15"
   },
   {
-   "id": "gh:anthropic:5448481008",
-   "source": "greenhouse",
-   "company": "anthropic",
-   "title": "Data Engineer, Product",
-   "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5448481008",
-   "posted": "2026-10-09",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "gh:anthropic:5184585008",
    "source": "greenhouse",
    "company": "anthropic",
@@ -824,30 +800,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-17"
-  },
-  {
-   "id": "lv:spotify:1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
-   "source": "lever",
-   "company": "spotify",
-   "title": "Data Scientist - Music Mission",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
-   "posted": "2026-06-22",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-   "source": "lever",
-   "company": "spotify",
-   "title": "Data Scientist - Music Promotion",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-   "posted": "2026-09-10",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:stripe:8145119",
