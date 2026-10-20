@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T17:18:23+00:00",
+ "generated": "2026-10-20T15:32:22+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,16 +7,16 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12876,
+  "scanned": 12875,
   "role": 180,
-  "us": 127,
-  "experience": 70,
-  "kept": 67
+  "us": 128,
+  "experience": 69,
+  "kept": 66
  },
  "new_window_days": 3,
- "new_count": 3,
+ "new_count": 0,
  "counts": {
-  "entry": 24,
+  "entry": 23,
   "internship": 16,
   "unverified": 27
  },
@@ -58,16 +58,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:airbnb:8031901",
+   "id": "gh:brex:8463696002",
    "source": "greenhouse",
-   "company": "airbnb",
-   "title": "Data Scientist - Algorithms, Community Support",
-   "location": "Remote - USA",
-   "url": "https://careers.airbnb.com/positions/8031901?gh_jid=8031901",
-   "posted": "2026-06-28",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-10-03"
+   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:brex:8463702002",
@@ -76,18 +76,6 @@
    "title": "Data Analyst II",
    "location": "New York, New York, United States",
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -190,18 +178,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
@@ -220,6 +196,18 @@
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
