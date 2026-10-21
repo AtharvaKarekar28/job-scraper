@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T15:32:22+00:00",
+ "generated": "2026-10-21T15:48:23+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12875,
-  "role": 180,
-  "us": 128,
-  "experience": 69,
-  "kept": 66
+  "scanned": 12950,
+  "role": 183,
+  "us": 131,
+  "experience": 71,
+  "kept": 68
  },
  "new_window_days": 3,
- "new_count": 0,
+ "new_count": 2,
  "counts": {
   "entry": 23,
   "internship": 16,
-  "unverified": 27
+  "unverified": 29
  },
  "jobs": [
   {
@@ -58,24 +58,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463702002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "New York, New York, United States",
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463696002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -118,12 +118,12 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005785003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -142,12 +142,12 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -190,24 +190,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -490,6 +490,18 @@
    "first_seen": "2026-10-01"
   },
   {
+   "id": "gh:airbnb:7826337",
+   "source": "greenhouse",
+   "company": "airbnb",
+   "title": "Machine Learning Engineer, Assistance Engineering",
+   "location": "Remote-USA",
+   "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+   "posted": "2026-04-20",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
    "source": "lever",
    "company": "alloy",
@@ -680,6 +692,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "ab:openai:1f148786-2e00-472a-96b9-0b29015980e1",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Product Data Scientist - Youth, Families and Learning",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1",
+   "posted": "2026-10-20",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-21"
   },
   {
    "id": "lv:palantir:1b690123-1766-4e75-a0ef-0f58afa864b4",
