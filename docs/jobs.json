@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T15:48:23+00:00",
+ "generated": "2026-10-22T15:46:05+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,32 +7,20 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12950,
-  "role": 183,
-  "us": 131,
-  "experience": 71,
-  "kept": 68
+  "scanned": 12960,
+  "role": 181,
+  "us": 133,
+  "experience": 70,
+  "kept": 67
  },
  "new_window_days": 3,
  "new_count": 2,
  "counts": {
-  "entry": 23,
+  "entry": 22,
   "internship": 16,
   "unverified": 29
  },
  "jobs": [
-  {
-   "id": "ab:crusoe:3f0089ff-ec8b-4650-81e5-5769c6da8b3c",
-   "source": "ashby",
-   "company": "crusoe",
-   "title": "Procurement Operations Analyst",
-   "location": "Bellevue, WA - US",
-   "url": "https://jobs.ashbyhq.com/crusoe/3f0089ff-ec8b-4650-81e5-5769c6da8b3c",
-   "posted": "2026-09-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
   {
    "id": "gh:affirm:7822387003",
    "source": "greenhouse",
@@ -130,18 +118,6 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8001609003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
    "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -164,6 +140,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -190,24 +178,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594414",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
