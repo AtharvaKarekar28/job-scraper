@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T15:46:05+00:00",
+ "generated": "2026-10-23T15:37:23+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,17 +7,17 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12960,
-  "role": 181,
-  "us": 133,
-  "experience": 70,
-  "kept": 67
+  "scanned": 12963,
+  "role": 176,
+  "us": 127,
+  "experience": 71,
+  "kept": 68
  },
  "new_window_days": 3,
  "new_count": 2,
  "counts": {
   "entry": 22,
-  "internship": 16,
+  "internship": 17,
   "unverified": 29
  },
  "jobs": [
@@ -46,24 +46,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463702002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "New York, New York, United States",
-   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463696002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "San Francisco, California, United States",
    "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463702002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "New York, New York, United States",
+   "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -106,16 +106,16 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8001609003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-26"
+   "first_seen": "2026-09-22"
   },
   {
    "id": "gh:fivetran:8005785003",
@@ -142,16 +142,16 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8001609003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-22"
+   "first_seen": "2026-09-26"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -166,24 +166,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594414",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -334,6 +334,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "gh:databricks:6866538002",
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Data Science Intern (2027 Start)",
+   "location": "Mountain View, California; San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002",
+   "posted": "2023-08-17",
+   "years": null,
+   "tier": "internship",
+   "first_seen": "2026-10-23"
+  },
+  {
    "id": "gh:duolingo:8888721002",
    "source": "greenhouse",
    "company": "duolingo",
@@ -476,18 +488,6 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-10-01"
-  },
-  {
-   "id": "gh:airbnb:7826337",
-   "source": "greenhouse",
-   "company": "airbnb",
-   "title": "Machine Learning Engineer, Assistance Engineering",
-   "location": "Remote-USA",
-   "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
-   "posted": "2026-04-20",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-21"
   },
   {
    "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
@@ -800,6 +800,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-17"
+  },
+  {
+   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "source": "lever",
+   "company": "spotify",
+   "title": "Data Scientist - Music Promotion",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "posted": "2026-09-10",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:stripe:8145119",
