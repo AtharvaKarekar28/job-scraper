@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T15:37:23+00:00",
+ "generated": "2026-10-24T14:12:32+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,20 +7,32 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12963,
-  "role": 176,
-  "us": 127,
-  "experience": 71,
-  "kept": 68
+  "scanned": 13002,
+  "role": 178,
+  "us": 129,
+  "experience": 72,
+  "kept": 69
  },
  "new_window_days": 3,
- "new_count": 2,
+ "new_count": 3,
  "counts": {
-  "entry": 22,
+  "entry": 23,
   "internship": 17,
   "unverified": 29
  },
  "jobs": [
+  {
+   "id": "gh:oscar:8286491",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Operations Analyst, Plan Loading",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8286491",
+   "posted": "2026-10-23",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-24"
+  },
   {
    "id": "gh:affirm:7822387003",
    "source": "greenhouse",
@@ -106,24 +118,12 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8001609003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -142,16 +142,28 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
