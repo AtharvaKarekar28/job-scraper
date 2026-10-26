@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:44:30+00:00",
+ "generated": "2026-10-26T17:06:28+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,8 +7,8 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 13009,
-  "role": 178,
+  "scanned": 12965,
+  "role": 176,
   "us": 129,
   "experience": 72,
   "kept": 69
@@ -58,24 +58,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8463702002",
    "source": "greenhouse",
    "company": "brex",
    "title": "Data Analyst II",
    "location": "New York, New York, United States",
    "url": "https://www.brex.com/careers/8463702002?gh_jid=8463702002",
+   "posted": "2026-03-14",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:brex:8463696002",
+   "source": "greenhouse",
+   "company": "brex",
+   "title": "Data Analyst II",
+   "location": "San Francisco, California, United States",
+   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
    "posted": "2026-03-14",
    "years": 2,
    "tier": "entry",
@@ -118,6 +118,30 @@
    "first_seen": "2026-10-05"
   },
   {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
+  },
+  {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
    "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -142,30 +166,6 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8001609003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -173,18 +173,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -208,6 +196,18 @@
    "title": "Data Scientist II",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594416",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
