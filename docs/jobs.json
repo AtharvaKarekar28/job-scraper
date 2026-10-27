@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T17:06:28+00:00",
+ "generated": "2026-10-27T16:10:01+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12965,
-  "role": 176,
-  "us": 129,
-  "experience": 72,
-  "kept": 69
+  "scanned": 13027,
+  "role": 182,
+  "us": 133,
+  "experience": 75,
+  "kept": 71
  },
  "new_window_days": 3,
- "new_count": 2,
+ "new_count": 4,
  "counts": {
-  "entry": 23,
+  "entry": 22,
   "internship": 17,
-  "unverified": 29
+  "unverified": 32
  },
  "jobs": [
   {
@@ -70,18 +70,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:brex:8463696002",
-   "source": "greenhouse",
-   "company": "brex",
-   "title": "Data Analyst II",
-   "location": "San Francisco, California, United States",
-   "url": "https://www.brex.com/careers/8463696002?gh_jid=8463696002",
-   "posted": "2026-03-14",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:brex:8783482002",
    "source": "greenhouse",
    "company": "brex",
@@ -116,6 +104,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-05"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8001609003",
@@ -154,18 +154,6 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -173,18 +161,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -208,6 +184,18 @@
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -502,6 +490,18 @@
    "first_seen": "2026-10-01"
   },
   {
+   "id": "gh:airbnb:7826337",
+   "source": "greenhouse",
+   "company": "airbnb",
+   "title": "Machine Learning Engineer, Assistance Engineering",
+   "location": "Remote-USA",
+   "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+   "posted": "2026-04-20",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
    "source": "lever",
    "company": "alloy",
@@ -526,6 +526,18 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "gh:anthropic:5462966008",
+   "source": "greenhouse",
+   "company": "anthropic",
+   "title": "Security Data Engineer",
+   "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462966008",
+   "posted": "2026-10-26",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ab:baseten:c2ba6c50-d282-4478-98e9-668f94facde8",
    "source": "ashby",
    "company": "baseten",
@@ -548,6 +560,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-03"
+  },
+  {
+   "id": "ab:crusoe:ef99c43f-8aef-495c-84e7-36663cd73369",
+   "source": "ashby",
+   "company": "crusoe",
+   "title": "Data Scientist, Analytics",
+   "location": "San Francisco, CA - US",
+   "url": "https://jobs.ashbyhq.com/crusoe/ef99c43f-8aef-495c-84e7-36663cd73369",
+   "posted": "2026-10-26",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
@@ -596,6 +620,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "ab:openai:5dce6671-9aa8-4c49-b263-b175a2a927f8",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Data Scientist, Personalization & Machine Learning",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
+   "posted": "2026-10-15",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-27"
   },
   {
    "id": "ab:openai:efcc3430-14c8-4022-8350-8146ffb867ab",
@@ -677,18 +713,6 @@
    "location": "San Francisco",
    "url": "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174",
    "posted": "2026-08-21",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "ab:openai:cadb7c24-2aea-4b98-a793-65ae9388b5d6",
-   "source": "ashby",
-   "company": "openai",
-   "title": "People Research Data Scientist, AI Fairness & Bias",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/cadb7c24-2aea-4b98-a793-65ae9388b5d6",
-   "posted": "2026-08-31",
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
