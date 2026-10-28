@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T16:10:01+00:00",
+ "generated": "2026-10-28T16:57:09+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,16 +7,16 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 13027,
-  "role": 182,
+  "scanned": 12987,
+  "role": 180,
   "us": 133,
-  "experience": 75,
-  "kept": 71
+  "experience": 76,
+  "kept": 72
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 3,
  "counts": {
-  "entry": 22,
+  "entry": 23,
   "internship": 17,
   "unverified": 32
  },
@@ -106,6 +106,18 @@
    "first_seen": "2026-10-05"
   },
   {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
    "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -128,18 +140,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-22"
-  },
-  {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8005784003",
@@ -166,6 +166,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
    "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
@@ -184,18 +196,6 @@
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -284,6 +284,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-08"
+  },
+  {
+   "id": "gh:toast:7984730",
+   "source": "greenhouse",
+   "company": "toast",
+   "title": "Data Scientist II",
+   "location": "Remote, USA",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=7984730",
+   "posted": "2026-06-12",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:coinbase:8175471",
@@ -586,6 +598,18 @@
    "first_seen": "2026-09-13"
   },
   {
+   "id": "ab:openai:5dce6671-9aa8-4c49-b263-b175a2a927f8",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Applied Data Scientist, Personalization & Machine Learning",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
+   "posted": "2026-10-15",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-27"
+  },
+  {
    "id": "ab:openai:c25fd30e-056e-4a26-af80-7ea1074fc56e",
    "source": "ashby",
    "company": "openai",
@@ -620,18 +644,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "ab:openai:5dce6671-9aa8-4c49-b263-b175a2a927f8",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Data Scientist, Personalization & Machine Learning",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/5dce6671-9aa8-4c49-b263-b175a2a927f8",
-   "posted": "2026-10-15",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-27"
   },
   {
    "id": "ab:openai:efcc3430-14c8-4022-8350-8146ffb867ab",
