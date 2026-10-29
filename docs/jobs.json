@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T16:57:09+00:00",
+ "generated": "2026-10-29T17:17:37+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,32 +7,20 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 12987,
-  "role": 180,
+  "scanned": 13006,
+  "role": 178,
   "us": 133,
-  "experience": 76,
-  "kept": 72
+  "experience": 77,
+  "kept": 73
  },
  "new_window_days": 3,
- "new_count": 3,
+ "new_count": 6,
  "counts": {
   "entry": 23,
   "internship": 17,
-  "unverified": 32
+  "unverified": 33
  },
  "jobs": [
-  {
-   "id": "gh:oscar:8286491",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Operations Analyst, Plan Loading",
-   "location": "Remote",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8286491",
-   "posted": "2026-10-23",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-24"
-  },
   {
    "id": "gh:affirm:7822387003",
    "source": "greenhouse",
@@ -56,6 +44,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:attentive:4471774009",
+   "source": "greenhouse",
+   "company": "attentive",
+   "title": "Legal Operations Analyst",
+   "location": "New York, NY (Hybrid)",
+   "url": "https://job-boards.greenhouse.io/attentive/jobs/4471774009",
+   "posted": "2026-10-28",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-10-29"
   },
   {
    "id": "gh:brex:8463702002",
@@ -106,6 +106,18 @@
    "first_seen": "2026-10-05"
   },
   {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
    "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -118,12 +130,12 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005548003",
+   "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -140,18 +152,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-22"
-  },
-  {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -178,24 +178,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -634,6 +634,18 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "ab:openai:b82699a2-5819-4276-a402-fd88f56f9246",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Data Scientist, Cloud Distribution & Growth",
+   "location": "San Francisco, Seattle",
+   "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
+   "posted": "2026-10-28",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-29"
+  },
+  {
    "id": "ab:openai:e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92",
    "source": "ashby",
    "company": "openai",
@@ -862,18 +874,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:stripe:8145119",
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "GTM Strategy & Operations Analyst",
-   "location": "New York, NY",
-   "url": "https://stripe.com/jobs/search?gh_jid=8145119",
-   "posted": "2026-08-20",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "ab:supabase:73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
    "source": "ashby",
    "company": "supabase",
@@ -884,6 +884,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-15"
+  },
+  {
+   "id": "gh:twilio:8240487",
+   "source": "greenhouse",
+   "company": "twilio",
+   "title": "Machine Learning Engineer 2",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8240487",
+   "posted": "2026-10-28",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-29"
   }
  ]
 }
