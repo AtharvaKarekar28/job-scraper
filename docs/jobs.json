@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T16:55:38+00:00",
+ "generated": "2026-10-31T15:56:07+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,18 +7,18 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 13029,
-  "role": 188,
-  "us": 140,
-  "experience": 84,
-  "kept": 80
+  "scanned": 13048,
+  "role": 192,
+  "us": 144,
+  "experience": 85,
+  "kept": 81
  },
  "new_window_days": 3,
- "new_count": 9,
+ "new_count": 7,
  "counts": {
   "entry": 28,
   "internship": 19,
-  "unverified": 33
+  "unverified": 34
  },
  "jobs": [
   {
@@ -28,18 +28,6 @@
    "title": "Strategic Insights Associate, Data Analytics",
    "location": "New York, New York, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/8249773",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:8250197",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Dallas, Texas, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
    "posted": "2026-10-02",
    "years": 1,
    "tier": "entry",
@@ -64,6 +52,18 @@
    "title": "Strategic Insights Associate, Data Analytics",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/8250129",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "id": "gh:oscar:8250197",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Dallas, Texas, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
    "posted": "2026-10-02",
    "years": 1,
    "tier": "entry",
@@ -166,16 +166,16 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8001609003",
+   "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-22"
+   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8005784003",
@@ -190,16 +190,16 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005785003",
+   "id": "gh:fivetran:8001609003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-26"
+   "first_seen": "2026-09-22"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -209,18 +209,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -244,6 +232,18 @@
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -668,6 +668,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-27"
+  },
+  {
+   "id": "gh:fivetran:8007247003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "IT Operations Analyst II",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8007247003",
+   "posted": "2026-10-30",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-31"
   },
   {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
