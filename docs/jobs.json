@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T15:56:07+00:00",
+ "generated": "2026-11-01T16:58:52+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -7,9 +7,9 @@
   "greenhouse:amplitude HTTP 404"
  ],
  "funnel": {
-  "scanned": 13048,
-  "role": 192,
-  "us": 144,
+  "scanned": 13067,
+  "role": 191,
+  "us": 143,
   "experience": 85,
   "kept": 81
  },
@@ -21,6 +21,30 @@
   "unverified": 34
  },
  "jobs": [
+  {
+   "id": "gh:oscar:8250197",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Dallas, Texas, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
+  {
+   "id": "gh:oscar:8250129",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Strategic Insights Associate, Data Analytics",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250129",
+   "posted": "2026-10-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-03"
+  },
   {
    "id": "gh:oscar:8249773",
    "source": "greenhouse",
@@ -40,30 +64,6 @@
    "title": "Strategic Insights Associate, Data Analytics",
    "location": "Atlanta, Georgia, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:8250129",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250129",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:8250197",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Dallas, Texas, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
    "posted": "2026-10-02",
    "years": 1,
    "tier": "entry",
@@ -166,24 +166,24 @@
    "first_seen": "2026-09-26"
   },
   {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "Oakland, California, United States, AMER",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
