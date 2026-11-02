@@ -1,73 +1,38 @@
 {
- "generated": "2026-11-01T16:58:52+00:00",
+ "generated": "2026-11-02T20:37:35+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
   "greenhouse:postman HTTP 404",
-  "greenhouse:amplitude HTTP 404"
+  "greenhouse:amplitude HTTP 404",
+  "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13067,
-  "role": 191,
-  "us": 143,
-  "experience": 85,
-  "kept": 81
+  "scanned": 13088,
+  "role": 188,
+  "us": 138,
+  "experience": 80,
+  "kept": 77
  },
  "new_window_days": 3,
- "new_count": 7,
+ "new_count": 5,
  "counts": {
-  "entry": 28,
+  "entry": 25,
   "internship": 19,
-  "unverified": 34
+  "unverified": 33
  },
  "jobs": [
   {
-   "id": "gh:oscar:8250197",
+   "id": "gh:stripe:8346831",
    "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Dallas, Texas, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250197",
-   "posted": "2026-10-02",
+   "company": "stripe",
+   "title": "Data Scientist, FX Quantitative Research",
+   "location": "New York, NY",
+   "url": "https://stripe.com/jobs/search?gh_jid=8346831",
+   "posted": "2026-11-02",
    "years": 1,
    "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:8250129",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250129",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:8249773",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8249773",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
-  },
-  {
-   "id": "gh:oscar:8250195",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Strategic Insights Associate, Data Analytics",
-   "location": "Atlanta, Georgia, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/8250195",
-   "posted": "2026-10-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-10-03"
+   "first_seen": "2026-11-02"
   },
   {
    "id": "gh:affirm:7822387003",
@@ -154,30 +119,6 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -202,6 +143,30 @@
    "first_seen": "2026-09-22"
   },
   {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -214,24 +179,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Tempe, Arizona, United States",
    "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "posted": "2026-02-06",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7592301",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -956,18 +921,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-17"
-  },
-  {
-   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-   "source": "lever",
-   "company": "spotify",
-   "title": "Data Scientist - Music Promotion",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
-   "posted": "2026-09-10",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "ab:supabase:73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
