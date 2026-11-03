@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T20:37:35+00:00",
+ "generated": "2026-11-03T18:12:56+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,17 +8,17 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13088,
-  "role": 188,
-  "us": 138,
-  "experience": 80,
-  "kept": 77
+  "scanned": 13074,
+  "role": 185,
+  "us": 135,
+  "experience": 79,
+  "kept": 76
  },
  "new_window_days": 3,
- "new_count": 5,
+ "new_count": 2,
  "counts": {
   "entry": 25,
-  "internship": 19,
+  "internship": 18,
   "unverified": 33
  },
  "jobs": [
@@ -119,36 +119,24 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8001609003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
    "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "USA - Austin (dbt)",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -167,6 +155,18 @@
    "first_seen": "2026-09-26"
   },
   {
+   "id": "gh:fivetran:8001609003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Denver, Colorado, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
+   "posted": "2026-09-21",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-22"
+  },
+  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -179,24 +179,24 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594416",
+   "id": "gh:oscar:7592301",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594416",
+   "location": "New York, New York, United States",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7592301",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7592301",
+   "id": "gh:oscar:7594416",
    "source": "greenhouse",
    "company": "oscar",
    "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7592301",
+   "location": "Tempe, Arizona, United States",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7594416",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -208,7 +208,7 @@
    "company": "oscar",
    "title": "Data Scientist II",
    "location": "Los Angeles, California, United States",
-   "url": "https://job-boards.greenhouse.io/oscar/jobs/7594414",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7594414",
    "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
@@ -417,18 +417,6 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-09-24"
-  },
-  {
-   "id": "gh:figma:6178857004",
-   "source": "greenhouse",
-   "company": "figma",
-   "title": "Data Science Intern (2027)",
-   "location": "San Francisco, CA • New York, NY",
-   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
-   "posted": "2026-09-14",
-   "years": null,
-   "tier": "internship",
-   "first_seen": "2026-09-15"
   },
   {
    "id": "gh:figma:6200626004",
