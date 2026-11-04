@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T18:12:56+00:00",
+ "generated": "2026-11-04T18:24:00+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,18 +8,18 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13074,
-  "role": 185,
-  "us": 135,
-  "experience": 79,
-  "kept": 76
+  "scanned": 13079,
+  "role": 183,
+  "us": 132,
+  "experience": 78,
+  "kept": 75
  },
  "new_window_days": 3,
- "new_count": 2,
+ "new_count": 3,
  "counts": {
-  "entry": 25,
+  "entry": 22,
   "internship": 18,
-  "unverified": 33
+  "unverified": 35
  },
  "jobs": [
   {
@@ -95,18 +95,6 @@
    "first_seen": "2026-10-02"
   },
   {
-   "id": "gh:discord:8840756002",
-   "source": "greenhouse",
-   "company": "discord",
-   "title": "Data Scientist - Client Platform",
-   "location": "San Francisco Bay Area",
-   "url": "https://job-boards.greenhouse.io/discord/jobs/8840756002",
-   "posted": "2026-09-24",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-25"
-  },
-  {
    "id": "gh:elastic:8244449",
    "source": "greenhouse",
    "company": "elastic",
@@ -119,36 +107,12 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005785003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "USA - New York",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -167,6 +131,30 @@
    "first_seen": "2026-09-22"
   },
   {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005784003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "Oakland, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "source": "ashby",
    "company": "linear",
@@ -174,6 +162,18 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "gh:oscar:7594414",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Data Scientist II",
+   "location": "Los Angeles, California, United States",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7594414",
+   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -203,34 +203,10 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:pinterest:8162046",
-   "source": "greenhouse",
-   "company": "pinterest",
-   "title": "Machine Learning Engineer II, Responsible AI",
-   "location": "San Francisco, CA, US; Remote, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8162046",
-   "posted": "2026-08-27",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:pinterest:7697137",
    "source": "greenhouse",
    "company": "pinterest",
-   "title": "Machine Learning Engineer II, Visual AI",
+   "title": "Machine Learning Engineer II, Responsible AI",
    "location": "San Francisco, CA, US; Remote, US",
    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7697137",
    "posted": "2026-03-10",
@@ -273,18 +249,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-19"
-  },
-  {
-   "id": "gh:sofi:8012077003",
-   "source": "greenhouse",
-   "company": "sofi",
-   "title": "Crypto Core Operations Analyst",
-   "location": "FL - Jacksonville; UT - Cottonwood Heights",
-   "url": "https://sofi.com/careers/job/8012077003?gh_jid=8012077003",
-   "posted": "2026-10-08",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-10-09"
   },
   {
    "id": "gh:stripe:8243617",
@@ -575,6 +539,18 @@
    "first_seen": "2026-09-30"
   },
   {
+   "id": "gh:anthropic:5467893008",
+   "source": "greenhouse",
+   "company": "anthropic",
+   "title": "Data Scientist, Finance Forecasting",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
+   "posted": "2026-11-03",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-04"
+  },
+  {
    "id": "gh:anthropic:5462966008",
    "source": "greenhouse",
    "company": "anthropic",
@@ -669,6 +645,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-01"
+  },
+  {
+   "id": "ab:openai:5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Data Scientist, Analytics Enablement",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
+   "posted": "2026-11-04",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-04"
   },
   {
    "id": "ab:openai:756d8c20-649a-47f2-8012-553b5f6cb0c5",
