@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T18:24:00+00:00",
+ "generated": "2026-11-05T18:28:10+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,16 +8,16 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13079,
-  "role": 183,
-  "us": 132,
-  "experience": 78,
-  "kept": 75
+  "scanned": 13049,
+  "role": 181,
+  "us": 130,
+  "experience": 76,
+  "kept": 73
  },
  "new_window_days": 3,
- "new_count": 3,
+ "new_count": 6,
  "counts": {
-  "entry": 22,
+  "entry": 20,
   "internship": 18,
   "unverified": 35
  },
@@ -107,12 +107,12 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005785003",
+   "id": "gh:fivetran:8005548003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -131,24 +131,24 @@
    "first_seen": "2026-09-22"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
    "title": "Pricing & Order Operations Analyst",
    "location": "Oakland, California, United States, AMER",
    "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
+  },
+  {
+   "id": "gh:fivetran:8005785003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - New York",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
    "posted": "2026-09-25",
    "years": 2,
    "tier": "entry",
@@ -162,42 +162,6 @@
    "location": "North America",
    "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
    "posted": "2026-08-11",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594414",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Los Angeles, California, United States",
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7594414",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7592301",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "New York, New York, United States",
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7592301",
-   "posted": "2026-02-06",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:oscar:7594416",
-   "source": "greenhouse",
-   "company": "oscar",
-   "title": "Data Scientist II",
-   "location": "Tempe, Arizona, United States",
-   "url": "https://oscarhealth.com/careers/jobs?gh_jid=7594416",
-   "posted": "2026-02-06",
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-13"
@@ -249,6 +213,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-19"
+  },
+  {
+   "id": "gh:stripe:8189909",
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Data Analyst, SF",
+   "location": "San Francisco",
+   "url": "https://stripe.com/jobs/search?gh_jid=8189909",
+   "posted": "2026-09-10",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-05"
   },
   {
    "id": "gh:stripe:8243617",
@@ -539,18 +515,6 @@
    "first_seen": "2026-09-30"
   },
   {
-   "id": "gh:anthropic:5467893008",
-   "source": "greenhouse",
-   "company": "anthropic",
-   "title": "Data Scientist, Finance Forecasting",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
-   "posted": "2026-11-03",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-11-04"
-  },
-  {
    "id": "gh:anthropic:5462966008",
    "source": "greenhouse",
    "company": "anthropic",
@@ -803,6 +767,30 @@
    "first_seen": "2026-10-08"
   },
   {
+   "id": "lv:palantir:62d74def-2134-427d-baa0-4783f2187266",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Operations Analyst - US Government",
+   "location": "Washington, D.C.",
+   "url": "https://jobs.lever.co/palantir/62d74def-2134-427d-baa0-4783f2187266",
+   "posted": "2025-11-17",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "lv:palantir:b14585f4-9a68-49e8-97af-3f03f2a6c357",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Operations Analyst - US Government",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/b14585f4-9a68-49e8-97af-3f03f2a6c357",
+   "posted": "2022-08-12",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-05"
+  },
+  {
    "id": "lv:palantir:5f3f9547-2aea-4ac2-995d-e8fa53b16e39",
    "source": "lever",
    "company": "palantir",
@@ -863,28 +851,16 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "lv:palantir:38758e88-5884-4a11-98ac-d23cab51bc7a",
-   "source": "lever",
-   "company": "palantir",
-   "title": "Site Reliability Operations Analyst - US Government",
-   "location": "Washington, D.C.",
-   "url": "https://jobs.lever.co/palantir/38758e88-5884-4a11-98ac-d23cab51bc7a",
-   "posted": "2020-04-13",
+   "id": "gh:reddit:8349916",
+   "source": "greenhouse",
+   "company": "reddit",
+   "title": "Machine Learning Engineer",
+   "location": "San Francisco, CA",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
+   "posted": "2026-11-05",
    "years": null,
    "tier": "unverified",
-   "first_seen": "2026-09-13"
-  },
-  {
-   "id": "lv:palantir:7d91ca36-1e23-4603-b0f1-82a835e27d3f",
-   "source": "lever",
-   "company": "palantir",
-   "title": "Site Reliability Operations Analyst - US Government",
-   "location": "New York, NY",
-   "url": "https://jobs.lever.co/palantir/7d91ca36-1e23-4603-b0f1-82a835e27d3f",
-   "posted": "2020-04-13",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
+   "first_seen": "2026-11-05"
   },
   {
    "id": "lv:ro:3910baa9-f961-4380-ad0a-01deec07f7a2",
