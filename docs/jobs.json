@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T17:47:49+00:00",
+ "generated": "2026-11-07T16:43:05+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,16 +8,16 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13047,
-  "role": 184,
-  "us": 131,
-  "experience": 77,
-  "kept": 74
+  "scanned": 13062,
+  "role": 183,
+  "us": 132,
+  "experience": 76,
+  "kept": 73
  },
  "new_window_days": 3,
  "new_count": 8,
  "counts": {
-  "entry": 19,
+  "entry": 18,
   "internship": 20,
   "unverified": 35
  },
@@ -33,18 +33,6 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-11-02"
-  },
-  {
-   "id": "gh:affirm:7815952003",
-   "source": "greenhouse",
-   "company": "affirm",
-   "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
-   "location": "Remote US",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
-   "posted": "2026-08-28",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:attentive:4471774009",
@@ -95,18 +83,6 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8005784003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -141,6 +117,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-22"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -568,7 +556,7 @@
    "company": "crusoe",
    "title": "Data Scientist, Analytics",
    "location": "San Francisco, CA - US",
-   "url": "https://jobs.ashbyhq.com/crusoe/ef99c43f-8aef-495c-84e7-36663cd73369",
+   "url": "https://jobs.ashbyhq.com/Crusoe/ef99c43f-8aef-495c-84e7-36663cd73369",
    "posted": "2026-10-26",
    "years": null,
    "tier": "unverified",
