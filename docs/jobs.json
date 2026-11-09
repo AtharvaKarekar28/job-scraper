@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T16:53:46+00:00",
+ "generated": "2026-11-09T21:16:11+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,18 +8,18 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13055,
-  "role": 183,
-  "us": 132,
-  "experience": 76,
-  "kept": 73
+  "scanned": 13046,
+  "role": 174,
+  "us": 126,
+  "experience": 72,
+  "kept": 69
  },
  "new_window_days": 3,
- "new_count": 7,
+ "new_count": 4,
  "counts": {
   "entry": 18,
-  "internship": 20,
-  "unverified": 35
+  "internship": 18,
+  "unverified": 33
  },
  "jobs": [
   {
@@ -71,6 +71,18 @@
    "first_seen": "2026-10-02"
   },
   {
+   "id": "gh:chime:8904126002",
+   "source": "greenhouse",
+   "company": "chime",
+   "title": "Data Scientist, Dispute Risk",
+   "location": "Chicago, IL, USA",
+   "url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002",
+   "posted": "2026-11-09",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-09"
+  },
+  {
    "id": "gh:elastic:8244449",
    "source": "greenhouse",
    "company": "elastic",
@@ -83,18 +95,6 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
    "id": "gh:fivetran:8001609003",
    "source": "greenhouse",
    "company": "fivetran",
@@ -105,6 +105,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-22"
+  },
+  {
+   "id": "gh:fivetran:8005548003",
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Pricing & Order Operations Analyst",
+   "location": "USA - Austin (dbt)",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
+   "posted": "2026-09-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-09-26"
   },
   {
    "id": "gh:fivetran:8005784003",
@@ -215,18 +227,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "gh:toast:7984730",
-   "source": "greenhouse",
-   "company": "toast",
-   "title": "Data Scientist II",
-   "location": "Remote, USA",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=7984730",
-   "posted": "2026-06-12",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
-  },
-  {
    "id": "gh:zocdoc:8335345",
    "source": "greenhouse",
    "company": "zocdoc",
@@ -297,18 +297,6 @@
    "years": null,
    "tier": "internship",
    "first_seen": "2026-10-23"
-  },
-  {
-   "id": "gh:duolingo:8888721002",
-   "source": "greenhouse",
-   "company": "duolingo",
-   "title": "Data Scientist, Intern",
-   "location": "New York, NY; Pittsburgh, PA",
-   "url": "https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002",
-   "posted": "2026-10-15",
-   "years": null,
-   "tier": "internship",
-   "first_seen": "2026-10-16"
   },
   {
    "id": "gh:duolingo:8888848002",
@@ -455,18 +443,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "gh:stripe:8194283",
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "PhD Data Scientist, Intern",
-   "location": "New York, Seattle, South San Francisco HQ",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194283",
-   "posted": "2026-10-01",
-   "years": null,
-   "tier": "internship",
-   "first_seen": "2026-10-01"
-  },
-  {
    "id": "gh:stripe:8328662",
    "source": "greenhouse",
    "company": "stripe",
@@ -563,18 +539,6 @@
    "first_seen": "2026-10-27"
   },
   {
-   "id": "gh:fivetran:8007247003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "IT Operations Analyst II",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8007247003",
-   "posted": "2026-10-30",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-31"
-  },
-  {
    "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
    "source": "lever",
    "company": "matchgroup",
@@ -621,18 +585,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-11-04"
-  },
-  {
-   "id": "ab:openai:756d8c20-649a-47f2-8012-553b5f6cb0c5",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Data Scientist, B2B Strategy & Intelligence",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5",
-   "posted": "2026-09-30",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-30"
   },
   {
    "id": "ab:openai:b82699a2-5819-4276-a402-fd88f56f9246",
