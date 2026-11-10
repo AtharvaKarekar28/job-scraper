@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T21:16:11+00:00",
+ "generated": "2026-11-10T18:26:24+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,32 +8,20 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13046,
-  "role": 174,
-  "us": 126,
-  "experience": 72,
-  "kept": 69
+  "scanned": 13032,
+  "role": 170,
+  "us": 123,
+  "experience": 68,
+  "kept": 65
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 1,
  "counts": {
-  "entry": 18,
+  "entry": 13,
   "internship": 18,
-  "unverified": 33
+  "unverified": 34
  },
  "jobs": [
-  {
-   "id": "gh:stripe:8346831",
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "Data Scientist, FX Quantitative Research",
-   "location": "New York, NY",
-   "url": "https://stripe.com/jobs/search?gh_jid=8346831",
-   "posted": "2026-11-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-11-02"
-  },
   {
    "id": "gh:attentive:4471774009",
    "source": "greenhouse",
@@ -93,54 +81,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-05"
-  },
-  {
-   "id": "gh:fivetran:8001609003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Denver, Colorado, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8001609003",
-   "posted": "2026-09-21",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-22"
-  },
-  {
-   "id": "gh:fivetran:8005548003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - Austin (dbt)",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005548003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005784003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "Oakland, California, United States, AMER",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005784003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
-  },
-  {
-   "id": "gh:fivetran:8005785003",
-   "source": "greenhouse",
-   "company": "fivetran",
-   "title": "Pricing & Order Operations Analyst",
-   "location": "USA - New York",
-   "url": "https://www.fivetran.com/careers/job?gh_jid=8005785003",
-   "posted": "2026-09-25",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-26"
   },
   {
    "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
@@ -825,6 +765,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-17"
+  },
+  {
+   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "source": "lever",
+   "company": "spotify",
+   "title": "Data Scientist - Music Promotion",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "posted": "2026-09-10",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-13"
   },
   {
    "id": "ab:supabase:73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
