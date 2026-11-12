@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T18:18:54+00:00",
+ "generated": "2026-11-12T18:40:32+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,18 +8,18 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13039,
-  "role": 175,
-  "us": 126,
-  "experience": 70,
+  "scanned": 12990,
+  "role": 171,
+  "us": 123,
+  "experience": 69,
   "kept": 67
  },
  "new_window_days": 3,
- "new_count": 1,
+ "new_count": 2,
  "counts": {
-  "entry": 13,
+  "entry": 14,
   "internship": 19,
-  "unverified": 35
+  "unverified": 34
  },
  "jobs": [
   {
@@ -141,6 +141,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-09-19"
+  },
+  {
+   "id": "gh:robinhood:8379685",
+   "source": "greenhouse",
+   "company": "robinhood",
+   "title": "Accounts Receivable Operations Analyst",
+   "location": "Menlo Park, CA",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8379685?t=gh_src=&gh_jid=8379685",
+   "posted": "2026-11-12",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-12"
   },
   {
    "id": "gh:stripe:8189909",
@@ -753,18 +765,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
-  },
-  {
-   "id": "gh:reddit:8349916",
-   "source": "greenhouse",
-   "company": "reddit",
-   "title": "Machine Learning Engineer",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/reddit/jobs/8349916",
-   "posted": "2026-11-05",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-11-05"
   },
   {
    "id": "lv:ro:3910baa9-f961-4380-ad0a-01deec07f7a2",
