@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T18:21:15+00:00",
+ "generated": "2026-11-14T16:49:51+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,18 +8,18 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 12978,
-  "role": 163,
-  "us": 118,
-  "experience": 66,
-  "kept": 64
+  "scanned": 13002,
+  "role": 165,
+  "us": 121,
+  "experience": 68,
+  "kept": 65
  },
  "new_window_days": 3,
  "new_count": 3,
  "counts": {
-  "entry": 15,
+  "entry": 14,
   "internship": 17,
-  "unverified": 32
+  "unverified": 34
  },
  "jobs": [
   {
@@ -33,18 +33,6 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-11-13"
-  },
-  {
-   "id": "gh:affirm:7815952003",
-   "source": "greenhouse",
-   "company": "affirm",
-   "title": "Quantitative Analyst II (Capital Structuring & Analytics)",
-   "location": "Remote US",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/7815952003",
-   "posted": "2026-08-28",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "gh:attentive:4471774009",
@@ -765,6 +753,30 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-17"
+  },
+  {
+   "id": "lv:spotify:1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+   "source": "lever",
+   "company": "spotify",
+   "title": "Data Scientist - Music Mission",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/spotify/1bbaf909-5ff3-4ed6-87ca-f7ff007a169c",
+   "posted": "2026-06-22",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-13"
+  },
+  {
+   "id": "lv:spotify:56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "source": "lever",
+   "company": "spotify",
+   "title": "Data Scientist - Music Promotion",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+   "posted": "2026-09-10",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-09-13"
   },
   {
    "id": "ab:supabase:73ddf93b-fe0c-455d-ba27-cdde0d3fb94f",
