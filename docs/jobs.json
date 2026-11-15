@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:49:51+00:00",
+ "generated": "2026-11-15T17:32:06+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,7 +8,7 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13002,
+  "scanned": 13003,
   "role": 165,
   "us": 121,
   "experience": 68,
