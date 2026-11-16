@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T17:32:06+00:00",
+ "generated": "2026-11-16T20:46:42+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -8,14 +8,14 @@
   "lever:anyscale HTTP 404"
  ],
  "funnel": {
-  "scanned": 13003,
-  "role": 165,
-  "us": 121,
+  "scanned": 12912,
+  "role": 163,
+  "us": 120,
   "experience": 68,
   "kept": 65
  },
  "new_window_days": 3,
- "new_count": 3,
+ "new_count": 2,
  "counts": {
   "entry": 14,
   "internship": 17,
