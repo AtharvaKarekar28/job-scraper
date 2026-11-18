@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-17T19:32:19+00:00",
+ "generated": "2026-11-18T19:13:41+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,16 +9,16 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12885,
-  "role": 162,
-  "us": 119,
-  "experience": 68,
-  "kept": 65
+  "scanned": 12911,
+  "role": 167,
+  "us": 121,
+  "experience": 69,
+  "kept": 66
  },
  "new_window_days": 3,
- "new_count": 0,
+ "new_count": 1,
  "counts": {
-  "entry": 15,
+  "entry": 16,
   "internship": 17,
   "unverified": 33
  },
@@ -190,6 +190,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-08"
+  },
+  {
+   "id": "gh:toast:8359240",
+   "source": "greenhouse",
+   "company": "toast",
+   "title": "Data Engineer",
+   "location": "Remote, US",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8359240",
+   "posted": "2026-11-17",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-18"
   },
   {
    "id": "gh:zocdoc:8335345",
