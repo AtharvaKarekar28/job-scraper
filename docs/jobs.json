@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T19:13:41+00:00",
+ "generated": "2026-11-19T19:18:59+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,18 +9,18 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12911,
-  "role": 167,
-  "us": 121,
-  "experience": 69,
-  "kept": 66
+  "scanned": 12902,
+  "role": 168,
+  "us": 123,
+  "experience": 73,
+  "kept": 70
  },
  "new_window_days": 3,
- "new_count": 1,
+ "new_count": 4,
  "counts": {
   "entry": 16,
   "internship": 17,
-  "unverified": 33
+  "unverified": 37
  },
  "jobs": [
   {
@@ -420,6 +420,18 @@
    "first_seen": "2026-10-30"
   },
   {
+   "id": "gh:airbnb:7826337",
+   "source": "greenhouse",
+   "company": "airbnb",
+   "title": "Machine Learning Engineer, Assistance Engineering",
+   "location": "Remote-USA",
+   "url": "https://careers.airbnb.com/positions/7826337?gh_jid=7826337",
+   "posted": "2026-04-20",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-10-21"
+  },
+  {
    "id": "lv:alloy:985c832a-40f7-434d-9a24-d3aec381a48e",
    "source": "lever",
    "company": "alloy",
@@ -526,6 +538,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-01"
+  },
+  {
+   "id": "ab:openai:145f2801-4c59-4e90-a847-32085d20511c",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Data Science Leader, B2B Marketing & Demand Generation",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/145f2801-4c59-4e90-a847-32085d20511c",
+   "posted": "2026-11-19",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "ab:openai:5ceff3dd-3503-4ea0-9ade-eeb36b29f14e",
@@ -754,6 +778,30 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "lv:palantir:4a9e0649-a925-4b25-914d-1eea058a3e01",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Site Reliability Operations Analyst - Legal",
+   "location": "Washington, D.C.",
+   "url": "https://jobs.lever.co/palantir/4a9e0649-a925-4b25-914d-1eea058a3e01",
+   "posted": "2026-11-19",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "lv:palantir:773bb739-f011-4202-88d7-362a562df0d3",
+   "source": "lever",
+   "company": "palantir",
+   "title": "Site Reliability Operations Analyst - Legal",
+   "location": "New York, NY",
+   "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
+   "posted": "2026-11-19",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-19"
   },
   {
    "id": "lv:ro:3910baa9-f961-4380-ad0a-01deec07f7a2",
