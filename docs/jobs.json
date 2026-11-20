@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T19:18:59+00:00",
+ "generated": "2026-11-20T18:56:42+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,18 +9,18 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12902,
-  "role": 168,
-  "us": 123,
-  "experience": 73,
-  "kept": 70
+  "scanned": 12907,
+  "role": 169,
+  "us": 124,
+  "experience": 77,
+  "kept": 74
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 6,
  "counts": {
-  "entry": 16,
+  "entry": 19,
   "internship": 17,
-  "unverified": 37
+  "unverified": 38
  },
  "jobs": [
   {
@@ -34,6 +34,30 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-11-13"
+  },
+  {
+   "id": "gh:oscar:8286491",
+   "source": "greenhouse",
+   "company": "oscar",
+   "title": "Operations Analyst, Plan Loading",
+   "location": "Remote",
+   "url": "https://oscarhealth.com/careers/jobs?gh_jid=8286491",
+   "posted": "2026-10-23",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-10-24"
+  },
+  {
+   "id": "gh:stripe:8346831",
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Data Scientist, FX Quantitative Research",
+   "location": "New York, NY",
+   "url": "https://stripe.com/jobs/search?gh_jid=8346831",
+   "posted": "2026-11-02",
+   "years": 1,
+   "tier": "entry",
+   "first_seen": "2026-11-02"
   },
   {
    "id": "gh:affirm:7815952003",
@@ -82,6 +106,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-11-09"
+  },
+  {
+   "id": "ab:decagon:da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
+   "source": "ashby",
+   "company": "decagon",
+   "title": "Data Scientist, Analytics",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/decagon/da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
+   "posted": "2026-11-19",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "gh:elastic:8244449",
@@ -586,6 +622,18 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-09-13"
+  },
+  {
+   "id": "ab:openai:f6cada21-0f54-4d8a-884e-e3c64edd4789",
+   "source": "ashby",
+   "company": "openai",
+   "title": "Data Scientist, Integrity",
+   "location": "San Francisco",
+   "url": "https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+   "posted": "2026-11-20",
+   "years": null,
+   "tier": "unverified",
+   "first_seen": "2026-11-20"
   },
   {
    "id": "ab:openai:bd1ac97f-20f9-4727-9f92-7064035a416f",
