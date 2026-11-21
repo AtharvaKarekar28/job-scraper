@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T18:56:42+00:00",
+ "generated": "2026-11-21T17:51:52+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,18 +9,18 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12907,
-  "role": 169,
-  "us": 124,
-  "experience": 77,
-  "kept": 74
+  "scanned": 12919,
+  "role": 167,
+  "us": 122,
+  "experience": 74,
+  "kept": 71
  },
  "new_window_days": 3,
- "new_count": 6,
+ "new_count": 5,
  "counts": {
-  "entry": 19,
+  "entry": 18,
   "internship": 17,
-  "unverified": 38
+  "unverified": 36
  },
  "jobs": [
   {
@@ -106,18 +106,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-11-09"
-  },
-  {
-   "id": "ab:decagon:da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
-   "source": "ashby",
-   "company": "decagon",
-   "title": "Data Scientist, Analytics",
-   "location": "San Francisco",
-   "url": "https://jobs.ashbyhq.com/decagon/da7b2a8d-e090-4ee3-b4fb-359827c6a3ec",
-   "posted": "2026-11-19",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-11-20"
   },
   {
    "id": "gh:elastic:8244449",
@@ -480,18 +468,6 @@
    "first_seen": "2026-09-15"
   },
   {
-   "id": "gh:anthropic:5184585008",
-   "source": "greenhouse",
-   "company": "anthropic",
-   "title": "Data Science, Finance & Strategy",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184585008",
-   "posted": "2026-04-10",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-30"
-  },
-  {
    "id": "gh:anthropic:5462966008",
    "source": "greenhouse",
    "company": "anthropic",
@@ -598,18 +574,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-11-04"
-  },
-  {
-   "id": "ab:openai:b82699a2-5819-4276-a402-fd88f56f9246",
-   "source": "ashby",
-   "company": "openai",
-   "title": "Data Scientist, Cloud Distribution & Growth",
-   "location": "San Francisco, Seattle",
-   "url": "https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246",
-   "posted": "2026-10-28",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-10-29"
   },
   {
    "id": "ab:openai:e90a44a7-fc2e-49bf-aec4-d43b9e3d8e92",
