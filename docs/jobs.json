@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T18:11:30+00:00",
+ "generated": "2026-11-23T22:25:10+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,16 +9,16 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12911,
-  "role": 167,
-  "us": 122,
-  "experience": 74,
-  "kept": 71
+  "scanned": 12883,
+  "role": 163,
+  "us": 119,
+  "experience": 71,
+  "kept": 68
  },
  "new_window_days": 3,
- "new_count": 4,
+ "new_count": 1,
  "counts": {
-  "entry": 18,
+  "entry": 15,
   "internship": 17,
   "unverified": 36
  },
@@ -46,18 +46,6 @@
    "years": 1,
    "tier": "entry",
    "first_seen": "2026-10-24"
-  },
-  {
-   "id": "gh:stripe:8346831",
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "Data Scientist, FX Quantitative Research",
-   "location": "New York, NY",
-   "url": "https://stripe.com/jobs/search?gh_jid=8346831",
-   "posted": "2026-11-02",
-   "years": 1,
-   "tier": "entry",
-   "first_seen": "2026-11-02"
   },
   {
    "id": "gh:affirm:7815952003",
@@ -120,16 +108,16 @@
    "first_seen": "2026-10-05"
   },
   {
-   "id": "ab:linear:f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-   "source": "ashby",
-   "company": "linear",
-   "title": "Analytics Engineer",
-   "location": "North America",
-   "url": "https://jobs.ashbyhq.com/linear/f272fc4a-91a7-4dcf-9cb5-3600ebaf14e1",
-   "posted": "2026-08-11",
+   "id": "gh:pinterest:8213988",
+   "source": "greenhouse",
+   "company": "pinterest",
+   "title": "Data Analytics Engineer II",
+   "location": "San Francisco, CA, US; Remote, US",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+   "posted": "2026-09-18",
    "years": 2,
    "tier": "entry",
-   "first_seen": "2026-09-13"
+   "first_seen": "2026-09-19"
   },
   {
    "id": "gh:pinterest:7697137",
@@ -168,18 +156,6 @@
    "first_seen": "2026-09-13"
   },
   {
-   "id": "gh:pinterest:8213988",
-   "source": "greenhouse",
-   "company": "pinterest",
-   "title": "Software Engineer II, Data Analytics & Engineering",
-   "location": "San Francisco, CA, US; Remote, US",
-   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
-   "posted": "2026-09-18",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-09-19"
-  },
-  {
    "id": "gh:robinhood:8379685",
    "source": "greenhouse",
    "company": "robinhood",
@@ -214,18 +190,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-08"
-  },
-  {
-   "id": "gh:toast:8359240",
-   "source": "greenhouse",
-   "company": "toast",
-   "title": "Data Engineer",
-   "location": "Remote, US",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8359240",
-   "posted": "2026-11-17",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-11-18"
   },
   {
    "id": "gh:zocdoc:8335345",
