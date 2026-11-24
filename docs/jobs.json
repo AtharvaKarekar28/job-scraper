@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T22:25:10+00:00",
+ "generated": "2026-11-24T20:58:23+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,18 +9,18 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12883,
-  "role": 163,
-  "us": 119,
-  "experience": 71,
-  "kept": 68
+  "scanned": 12877,
+  "role": 161,
+  "us": 118,
+  "experience": 70,
+  "kept": 67
  },
  "new_window_days": 3,
  "new_count": 1,
  "counts": {
   "entry": 15,
   "internship": 17,
-  "unverified": 36
+  "unverified": 35
  },
  "jobs": [
   {
@@ -82,18 +82,6 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-02"
-  },
-  {
-   "id": "gh:chime:8904126002",
-   "source": "greenhouse",
-   "company": "chime",
-   "title": "Data Scientist, Dispute Risk",
-   "location": "Chicago, IL, USA",
-   "url": "https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002",
-   "posted": "2026-11-09",
-   "years": 2,
-   "tier": "entry",
-   "first_seen": "2026-11-09"
   },
   {
    "id": "gh:elastic:8244449",
@@ -166,6 +154,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-11-12"
+  },
+  {
+   "id": "ab:sierra:03424869-528d-4db1-b099-5d7f736d1a39",
+   "source": "ashby",
+   "company": "sierra",
+   "title": "RFP Strategy & Operations Analyst",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/Sierra/03424869-528d-4db1-b099-5d7f736d1a39",
+   "posted": "2026-11-24",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-24"
   },
   {
    "id": "gh:stripe:8189909",
@@ -478,18 +478,6 @@
    "years": null,
    "tier": "unverified",
    "first_seen": "2026-10-27"
-  },
-  {
-   "id": "lv:matchgroup:d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
-   "source": "lever",
-   "company": "matchgroup",
-   "title": "Data Scientist, Marketing Analytics",
-   "location": "New York, New York, Los Angeles, California",
-   "url": "https://jobs.lever.co/matchgroup/d28a3de6-cd04-483a-9aed-5ba1d2f8c57c",
-   "posted": "2026-09-10",
-   "years": null,
-   "tier": "unverified",
-   "first_seen": "2026-09-13"
   },
   {
    "id": "ab:openai:5dce6671-9aa8-4c49-b263-b175a2a927f8",
