@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T20:58:23+00:00",
+ "generated": "2026-11-25T20:20:48+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,7 +9,7 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12877,
+  "scanned": 12882,
   "role": 161,
   "us": 118,
   "experience": 70,
