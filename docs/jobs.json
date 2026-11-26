@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T20:20:48+00:00",
+ "generated": "2026-11-26T19:57:21+00:00",
  "boards_polled": 104,
  "boards_failed": [
   "greenhouse:hightouch HTTP 404",
@@ -9,16 +9,16 @@
   "ashby:browserbase HTTP 404"
  ],
  "funnel": {
-  "scanned": 12882,
+  "scanned": 12869,
   "role": 161,
-  "us": 118,
-  "experience": 70,
-  "kept": 67
+  "us": 119,
+  "experience": 71,
+  "kept": 68
  },
  "new_window_days": 3,
- "new_count": 1,
+ "new_count": 2,
  "counts": {
-  "entry": 15,
+  "entry": 16,
   "internship": 17,
   "unverified": 35
  },
@@ -82,6 +82,18 @@
    "years": 2,
    "tier": "entry",
    "first_seen": "2026-10-02"
+  },
+  {
+   "id": "gh:discord:8942144002",
+   "source": "greenhouse",
+   "company": "discord",
+   "title": "Data Engineer",
+   "location": "San Francisco Bay Area",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+   "posted": "2026-11-25",
+   "years": 2,
+   "tier": "entry",
+   "first_seen": "2026-11-26"
   },
   {
    "id": "gh:elastic:8244449",
